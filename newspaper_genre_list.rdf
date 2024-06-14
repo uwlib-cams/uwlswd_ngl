@@ -1,351 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rdf:RDF
    xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:dct="http://purl.org/dc/terms/"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl042">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            Handicapped persons' newspapers
-        </skos:prefLabel>
-    <skos:altLabel>Disabled newspapers</skos:altLabel>
-    <skos:scopeNote>Use for newspapers published for and about the disabled.</skos:scopeNote>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107236603</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl046">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            Industry newspapers
-        </skos:prefLabel>
-    <skos:narrower>https://doi.org/10.6069/uwlib.55.d.5#ngl035</skos:narrower>
-    <skos:narrower>https://doi.org/10.6069/uwlib.55.d.5#ngl055</skos:narrower>
-    <skos:narrower>https://doi.org/10.6069/uwlib.55.d.5#ngl057</skos:narrower>
-    <skos:narrower>https://doi.org/10.6069/uwlib.55.d.5#ngl063</skos:narrower>
-    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl018</skos:related>
-    <skos:scopeNote>Use for newspapers about profit-making enterprises that produce or supply goods, services, or sources of income.</skos:scopeNote>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106635283</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl082">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            Sports newspapers
-        </skos:prefLabel>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q11313190</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl069">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            Prohibition newspapers
-        </skos:prefLabel>
-    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl012</skos:related>
-    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl093</skos:related>
-    <skos:scopeNote>Use for newspapers advocating the legal prevention of the manufacture and sale of alcoholic beverages.</skos:scopeNote>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106676275</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl073">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            Real estate development newspapers
-        </skos:prefLabel>
-    <skos:altLabel>Booster newspapers</skos:altLabel>
-    <skos:scopeNote>Use for newspapers primarily intended to promote local economic activity by touting the assets of the community.</skos:scopeNote>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106677940</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl040">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            Ghost town newspapers
-        </skos:prefLabel>
-    <skos:scopeNote>Use for newspapers published in towns which are now abandoned.</skos:scopeNote>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107236883</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl087">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            Student newspapers
-        </skos:prefLabel>
-    <skos:narrower>https://doi.org/10.6069/uwlib.55.d.5#ngl025</skos:narrower>
-    <skos:narrower>https://doi.org/10.6069/uwlib.55.d.5#ngl043</skos:narrower>
-    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl077</skos:related>
-    <skos:closeMatch>http://id.loc.gov/authorities/subjects/sh85129277</skos:closeMatch>
-    <skos:closeMatch>http://id.loc.gov/authorities/childrensSubjects/sj2002006650</skos:closeMatch>
-    <rdfs:seeAlso>http://id.worldcat.org/fast/1135965</rdfs:seeAlso>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q738377</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl072">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            Pro-slavery newspapers
-        </skos:prefLabel>
-    <skos:altLabel>Slavery newspapers</skos:altLabel>
-    <skos:narrower>https://doi.org/10.6069/uwlib.55.d.5#ngl078</skos:narrower>
-    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl014</skos:related>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107178453</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl070">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            Propaganda newspapers
-        </skos:prefLabel>
-    <skos:scopeNote>Use for newspapers produced by a group or movement organized for spreading a particular doctrine or system of principles.</skos:scopeNote>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106677807</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl065">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            Native American newspapers
-        </skos:prefLabel>
-    <skos:note>Also apply other genre or subject headings for particular tribes and geographic locations if appropriate, e.g., Lummi newspapers;  Blackfoot newspapers;  Yakama newspapers.</skos:note>
-    <skos:note>Note under Tribal newspapers</skos:note>
-    <skos:altLabel>American Indian newspapers</skos:altLabel>
-    <skos:altLabel>Indian newspapers</skos:altLabel>
-    <skos:narrower>https://doi.org/10.6069/uwlib.55.d.5#ngl004</skos:narrower>
-    <skos:closeMatch>http://id.loc.gov/authorities/subjects/sh85064983</skos:closeMatch>
-    <rdfs:seeAlso>http://id.worldcat.org/fast/969154</rdfs:seeAlso>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107171989</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
-    <schema:additionalType xml:lang="en">Dataset</schema:additionalType>
-    <dc:creator xml:lang="en">University of Washington Libraries Government Publications, Maps, Microforms and Newspapers</dc:creator>
-    <dcterms:title xml:lang="en">Newspaper Genre List</dcterms:title>
-    <dc:publisher xml:lang="en">University of Washington Libraries</dc:publisher>
-    <dcterms:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
-    <dcterms:issued>2021</dcterms:issued>
-    <dc:language>en</dc:language>
-    <dcterms:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
-    <dcterms:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_ngl/newspaper_genre_list.html"/>
-    <dcterms:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_ngl/newspaper_genre_list.json"/>
-    <dcterms:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_ngl/newspaper_genre_list.nt"/>
-    <dcterms:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_ngl/newspaper_genre_list.ttl"/>
-    <dcterms:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_ngl/newspaper_genre_list.xml"/>
-    <dcterms:hasFormat rdf:resource="https://www.lib.washington.edu/gmm/collections/mcnews/ngl/"/>
-    <dcterms:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_ngl/newspaper_genre_list.jsonld"/>
-    <dcterms:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0"/>
-    <dcterms:description xml:lang="en">Terms used to designate genres of newspapers.</dcterms:description>
-    <schema:version>1-1-1</schema:version>
-    <dc:contributor>Jessica Albano</dc:contributor>
-    <rdfs:seeAlso rdf:resource="http://www.wikidata.org/entity/Q106632466"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl081">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            Socialist newspapers
-        </skos:prefLabel>
-    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl026</skos:related>
-    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl058</skos:related>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106687570</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl044">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            Hispanic American newspapers
-        </skos:prefLabel>
-    <skos:altLabel>Latino newspapers</skos:altLabel>
-    <skos:altLabel>Latinx newspapers</skos:altLabel>
-    <skos:narrower>https://doi.org/10.6069/uwlib.55.d.5#ngl060</skos:narrower>
-    <skos:scopeNote>Use for newspapers by, for, and about U.S. citizens of Latin American descent.</skos:scopeNote>
-    <skos:closeMatch>http://id.loc.gov/authorities/subjects/sh85061043</skos:closeMatch>
-    <rdfs:seeAlso>http://id.worldcat.org/fast/957428</rdfs:seeAlso>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106664402</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl062">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            Military base newspapers
-        </skos:prefLabel>
-    <skos:altLabel>Military post newspapers</skos:altLabel>
-    <skos:broader>https://doi.org/10.6069/uwlib.55.d.5#ngl108</skos:broader>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107182185</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl028">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            Company town newspapers
-        </skos:prefLabel>
-    <skos:scopeNote>Use for newspapers published for towns where one main company employs most of the community.</skos:scopeNote>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107181559</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl095">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            Underground newspapers
-        </skos:prefLabel>
-    <skos:altLabel>Alternative newspapers</skos:altLabel>
-    <skos:scopeNote>Use for newspapers published or produced by political or social radicals or nonconformists.</skos:scopeNote>
-    <skos:closeMatch>http://id.loc.gov/authorities/subjects/sh96010278</skos:closeMatch>
-    <rdfs:seeAlso>http://id.worldcat.org/fast/1160953</rdfs:seeAlso>
-    <rdfs:seeAlso>http://id.loc.gov/vocabulary/graphicMaterials/tgm011198</rdfs:seeAlso>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q4736543</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl043">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            High school student newspapers
-        </skos:prefLabel>
-    <skos:broader>https://doi.org/10.6069/uwlib.55.d.5#ngl087</skos:broader>
-    <skos:closeMatch>http://id.loc.gov/authorities/subjects/sh85129277</skos:closeMatch>
-    <rdfs:seeAlso>http://id.worldcat.org/fast/1135965</rdfs:seeAlso>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106661426</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl008">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            Anti-Chinese newspapers
-        </skos:prefLabel>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107171978</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl039">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            Gazettes
-        </skos:prefLabel>
-    <skos:altLabel>Official gazettes</skos:altLabel>
-    <skos:altLabel>Legal gazettes</skos:altLabel>
-    <skos:altLabel>Government gazettes</skos:altLabel>
-    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl041</skos:related>
-    <skos:scopeNote>Use for newspapers sanctioned by the U.S. or state government as official publishers.</skos:scopeNote>
-    <skos:closeMatch>http://id.loc.gov/authorities/subjects/sh85053597</skos:closeMatch>
-    <rdfs:seeAlso>http://id.worldcat.org/fast/939356</rdfs:seeAlso>
-    <rdfs:seeAlso></rdfs:seeAlso>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q2065227</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl063">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            Mining newspapers
-        </skos:prefLabel>
-    <skos:broader>https://doi.org/10.6069/uwlib.55.d.5#ngl046</skos:broader>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106668702</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl077">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            School newspapers
-        </skos:prefLabel>
-    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl087</skos:related>
-    <skos:scopeNote>Use for newspapers created by schools, but generally not by the student body, e.g., Indian school newspapers.</skos:scopeNote>
-    <skos:closeMatch>http://id.loc.gov/authorities/subjects/sh85129277</skos:closeMatch>
-    <rdfs:seeAlso>http://id.worldcat.org/fast/1135965</rdfs:seeAlso>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q20850562</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl079">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            Ship newspapers
-        </skos:prefLabel>
-    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl057</skos:related>
-    <skos:closeMatch>http://id.loc.gov/authorities/subjects/sh88000898</skos:closeMatch>
-    <rdfs:seeAlso>http://id.worldcat.org/fast/1116186</rdfs:seeAlso>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106687540</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl036">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            Free circulation newspapers
-        </skos:prefLabel>
-    <skos:altLabel>Free distribution newspapers</skos:altLabel>
-    <skos:closeMatch>http://id.loc.gov/authorities/subjects/sh86002473</skos:closeMatch>
-    <rdfs:seeAlso>http://id.worldcat.org/fast/933854</rdfs:seeAlso>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q142043</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl084">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            States' rights newspapers
-        </skos:prefLabel>
-    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl078</skos:related>
-    <skos:scopeNote>Use for newspapers advocating the strict interpretation of the Constitution, by which all rights not specifically delegated to the federal government belong to the states.</skos:scopeNote>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107208916</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl001">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            African American newspapers
-        </skos:prefLabel>
-    <skos:altLabel>Afro-American newspapers</skos:altLabel>
-    <skos:altLabel>Negro newspapers (American)</skos:altLabel>
-    <skos:altLabel>Black newspapers (American)</skos:altLabel>
-    <skos:closeMatch>http://id.loc.gov/authorities/subjects/sh85001873</skos:closeMatch>
-    <rdfs:seeAlso>http://id.worldcat.org/fast/799278</rdfs:seeAlso>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q4689686</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl074">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            Referendum newspapers
-        </skos:prefLabel>
-    <skos:scopeNote>Use for newspapers of limited duration established and printed in support of local or state political issues.</skos:scopeNote>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107170485</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl091">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            Tabloid newspapers
-        </skos:prefLabel>
-    <skos:scopeNote>Use for newspapers characterized by sensationalism, usually of a small size and presenting news in a concise form.</skos:scopeNote>
-    <skos:closeMatch>http://id.loc.gov/authorities/subjects/sh85131819</skos:closeMatch>
-    <rdfs:seeAlso>http://vocab.getty.edu/aat/300404424</rdfs:seeAlso>
-    <rdfs:seeAlso>http://id.worldcat.org/fast/1141790</rdfs:seeAlso>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106650967</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl078">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            Secession newspapers
-        </skos:prefLabel>
-    <skos:broader>https://doi.org/10.6069/uwlib.55.d.5#ngl072</skos:broader>
-    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl084</skos:related>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107179479</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl071">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            Pro-life newspapers
-        </skos:prefLabel>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106677862</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl052">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            Lampoon newspapers
-        </skos:prefLabel>
-    <skos:scopeNote>Use for newspapers which satirize current events and people.</skos:scopeNote>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107181810</rdfs:seeAlso>
-  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl004">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
@@ -359,169 +20,15 @@
     <rdfs:seeAlso>http://id.worldcat.org/fast/1748651</rdfs:seeAlso>
     <rdfs:seeAlso>http://www.wikidata.org/entity/Q107170524</rdfs:seeAlso>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl002">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl084">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
     <skos:prefLabel xml:lang="eng">
-            Agricultural exhibition newspapers
+            States' rights newspapers
         </skos:prefLabel>
-    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl031</skos:related>
-    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl083</skos:related>
-    <skos:scopeNote>Use for newspapers which report on competitive exhibitions of farm products, livestock, baked goods, etc. with prizes for excellence, often combined with carnival-like entertainment, and held annually by states, counties, etc.</skos:scopeNote>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107170506</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl010">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            Anti-fascist newspapers
-        </skos:prefLabel>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107171980</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl083">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            State fair newspapers
-        </skos:prefLabel>
-    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl002</skos:related>
-    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl031</skos:related>
-    <skos:scopeNote>Use for newspapers of annual state agricultural exhibitions.</skos:scopeNote>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107182208</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl120">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            Chinese Canadian newspapers
-        </skos:prefLabel>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107183122</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl064">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            Mission newspapers
-        </skos:prefLabel>
-    <skos:scopeNote>Use for newspapers produced for local or national Evangelical or missionary audiences. May be published by a church or non-denominational group.</skos:scopeNote>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106676186</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl093">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            Temperance newspapers
-        </skos:prefLabel>
-    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl069</skos:related>
-    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl012</skos:related>
-    <skos:scopeNote>Use for newspapers advocating abstinence from the use of alcohol or prohibition by law of the sale of or manufacture of alcohol.</skos:scopeNote>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106687644</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl113">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            Baptist newspapers
-        </skos:prefLabel>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106678195</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl015">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            Art newspapers
-        </skos:prefLabel>
-    <skos:scopeNote>Use for newspapers covering news about the fine arts.</skos:scopeNote>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106651333</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl018">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            Business and financial newspapers
-        </skos:prefLabel>
-    <skos:altLabel>Commercial newspapers</skos:altLabel>
-    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl046</skos:related>
-    <skos:scopeNote>Use for newspapers which feature general news and which focus on specific topics such as insurance, investments, marketing, etc.</skos:scopeNote>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106651372</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl037">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            Friendly society newspapers
-        </skos:prefLabel>
-    <skos:altLabel>Fraternal newspapers</skos:altLabel>
-    <skos:scopeNote>Use for newspapers produced under the aegis of the Masons, Odd Fellows, et al.</skos:scopeNote>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107236849</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl092">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            Tax reform newspapers
-        </skos:prefLabel>
-    <skos:scopeNote>Use for newspapers advocating tax reform.</skos:scopeNote>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107258644</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl116">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            Cheyenne newspapers
-        </skos:prefLabel>
-    <skos:broader>https://doi.org/10.6069/uwlib.55.d.5#ngl065</skos:broader>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107182467</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl111">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            Republican Party newspapers
-        </skos:prefLabel>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107259292</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl014">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            Anti-slavery newspapers
-        </skos:prefLabel>
-    <skos:altLabel>Abolitionist newspapers</skos:altLabel>
-    <skos:altLabel>Antislavery newspapers</skos:altLabel>
-    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl072</skos:related>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106651322</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl048">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            Japanese American newspapers
-        </skos:prefLabel>
-    <skos:closeMatch>http://id.loc.gov/authorities/subjects/sh88004141</skos:closeMatch>
-    <rdfs:seeAlso>http://id.worldcat.org/fast/981426</rdfs:seeAlso>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106668171</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl013">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            Anti-religious newspapers
-        </skos:prefLabel>
-    <skos:altLabel>Anti-clerical newspapers</skos:altLabel>
-    <skos:altLabel>Anti-clericalism newspapers</skos:altLabel>
-    <skos:narrower>https://doi.org/10.6069/uwlib.55.d.5#ngl007</skos:narrower>
-    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl017</skos:related>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107171982</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl119">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            Yakama newspapers
-        </skos:prefLabel>
-    <skos:broader>https://doi.org/10.6069/uwlib.55.d.5#ngl065</skos:broader>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107171988</rdfs:seeAlso>
+    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl078</skos:related>
+    <skos:scopeNote>Use for newspapers advocating the strict interpretation of the Constitution, by which all rights not specifically delegated to the federal government belong to the states.</skos:scopeNote>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107208916</rdfs:seeAlso>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl038">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -538,21 +45,78 @@
     <rdfs:seeAlso>http://homosaurus.org/v2/gayNewspapers</rdfs:seeAlso>
     <rdfs:seeAlso>http://www.wikidata.org/entity/Q106634743</rdfs:seeAlso>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl032">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl044">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
     <skos:prefLabel xml:lang="eng">
-            Entertainment newspapers
+            Hispanic American newspapers
         </skos:prefLabel>
-    <skos:altLabel>Popular entertainment newspapers</skos:altLabel>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106652786</rdfs:seeAlso>
+    <skos:altLabel>Latino newspapers</skos:altLabel>
+    <skos:altLabel>Latinx newspapers</skos:altLabel>
+    <skos:narrower>https://doi.org/10.6069/uwlib.55.d.5#ngl060</skos:narrower>
+    <skos:scopeNote>Use for newspapers by, for, and about U.S. citizens of Latin American descent.</skos:scopeNote>
+    <skos:closeMatch>http://id.loc.gov/authorities/subjects/sh85061043</skos:closeMatch>
+    <rdfs:seeAlso>http://id.worldcat.org/fast/957428</rdfs:seeAlso>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106664402</rdfs:seeAlso>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl105">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Collection"/>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl013">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
     <skos:prefLabel xml:lang="eng">
-            Tribal newspapers
+            Anti-religious newspapers
         </skos:prefLabel>
-    <skos:note>descriptors that identify tribal community or communities for whom the newspaper is published, e.g., Cheyenne newspapers, Lummi newspapers. Assign also the descriptor Native American newspapers.</skos:note>
+    <skos:altLabel>Anti-clerical newspapers</skos:altLabel>
+    <skos:altLabel>Anti-clericalism newspapers</skos:altLabel>
+    <skos:narrower>https://doi.org/10.6069/uwlib.55.d.5#ngl007</skos:narrower>
+    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl017</skos:related>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107171982</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl114">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            Catholic newspapers
+        </skos:prefLabel>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106678098</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl081">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            Socialist newspapers
+        </skos:prefLabel>
+    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl026</skos:related>
+    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl058</skos:related>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106687570</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl057">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            Maritime newspapers
+        </skos:prefLabel>
+    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl079</skos:related>
+    <skos:broader>https://doi.org/10.6069/uwlib.55.d.5#ngl046</skos:broader>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106635276</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl092">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            Tax reform newspapers
+        </skos:prefLabel>
+    <skos:scopeNote>Use for newspapers advocating tax reform.</skos:scopeNote>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107258644</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl086">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            Strike newspapers
+        </skos:prefLabel>
+    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl094</skos:related>
+    <skos:scopeNote>Use for newspapers associated with labor strikes.</skos:scopeNote>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107208914</rdfs:seeAlso>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl021">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -564,25 +128,44 @@
     <rdfs:seeAlso>http://id.worldcat.org/fast/857746</rdfs:seeAlso>
     <rdfs:seeAlso>http://www.wikidata.org/entity/Q106651395</rdfs:seeAlso>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl097">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl030">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
     <skos:prefLabel xml:lang="eng">
-            Utopian newspapers
+            Consumer cooperative newspapers
         </skos:prefLabel>
-    <skos:scopeNote>Use for newspapers associated with he expression of visionary or ideal schemes for the perfection of social or political conditions.</skos:scopeNote>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107258724</rdfs:seeAlso>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107236569</rdfs:seeAlso>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl051">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl078">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
     <skos:prefLabel xml:lang="eng">
-            Labor newspapers
+            Secession newspapers
         </skos:prefLabel>
-    <skos:narrower>https://doi.org/10.6069/uwlib.55.d.5#ngl023</skos:narrower>
-    <skos:narrower>https://doi.org/10.6069/uwlib.55.d.5#ngl094</skos:narrower>
-    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl096</skos:related>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106668248</rdfs:seeAlso>
+    <skos:broader>https://doi.org/10.6069/uwlib.55.d.5#ngl072</skos:broader>
+    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl084</skos:related>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107179479</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl034">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            Feminist newspapers
+        </skos:prefLabel>
+    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl099</skos:related>
+    <skos:scopeNote>Use for newspapers advocating social and political rights of women equal to men.</skos:scopeNote>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106652971</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl083">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            State fair newspapers
+        </skos:prefLabel>
+    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl002</skos:related>
+    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl031</skos:related>
+    <skos:scopeNote>Use for newspapers of annual state agricultural exhibitions.</skos:scopeNote>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107182208</rdfs:seeAlso>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl041">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -594,88 +177,76 @@
     <skos:scopeNote>Use for newspapers published by government organizations, but not by official publishers, e.g., Native American newspapers published by the Bureau of Indian Affairs.</skos:scopeNote>
     <rdfs:seeAlso>http://www.wikidata.org/entity/Q107236916</rdfs:seeAlso>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl053">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl077">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
     <skos:prefLabel xml:lang="eng">
-            Lawyers' newspapers
+            School newspapers
         </skos:prefLabel>
-    <skos:altLabel>Law newspapers</skos:altLabel>
-    <skos:altLabel>Legal newspapers</skos:altLabel>
-    <skos:scopeNote>Use for newspapers produced for and by lawyers.</skos:scopeNote>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106668332</rdfs:seeAlso>
+    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl087</skos:related>
+    <skos:scopeNote>Use for newspapers created by schools, but generally not by the student body, e.g., Indian school newspapers.</skos:scopeNote>
+    <skos:closeMatch>http://id.loc.gov/authorities/subjects/sh85129277</skos:closeMatch>
+    <rdfs:seeAlso>http://id.worldcat.org/fast/1135965</rdfs:seeAlso>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q20850562</rdfs:seeAlso>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl099">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl048">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
     <skos:prefLabel xml:lang="eng">
-            Women's newspapers
+            Japanese American newspapers
         </skos:prefLabel>
-    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl034</skos:related>
-    <skos:scopeNote>Use for newspapers whose intended audience is women.</skos:scopeNote>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106652977</rdfs:seeAlso>
+    <skos:closeMatch>http://id.loc.gov/authorities/subjects/sh88004141</skos:closeMatch>
+    <rdfs:seeAlso>http://id.worldcat.org/fast/981426</rdfs:seeAlso>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106668171</rdfs:seeAlso>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl024">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl113">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
     <skos:prefLabel xml:lang="eng">
-            Civilian Conservation Corps newspapers
+            Baptist newspapers
         </skos:prefLabel>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107183138</rdfs:seeAlso>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106678195</rdfs:seeAlso>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl022">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl049">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
     <skos:prefLabel xml:lang="eng">
-            Civil rights newspapers
+            Jewish newspapers
         </skos:prefLabel>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107183119</rdfs:seeAlso>
+    <skos:closeMatch>http://id.loc.gov/authorities/subjects/sh85070310</skos:closeMatch>
+    <rdfs:seeAlso>http://id.worldcat.org/fast/982872</rdfs:seeAlso>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106664582</rdfs:seeAlso>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl060">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl072">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
     <skos:prefLabel xml:lang="eng">
-            Mexican American newspapers
+            Pro-slavery newspapers
         </skos:prefLabel>
-    <skos:altLabel>Chicano newspapers</skos:altLabel>
-    <skos:broader>https://doi.org/10.6069/uwlib.55.d.5#ngl044</skos:broader>
-    <skos:closeMatch>http://id.loc.gov/authorities/subjects/sh89005391</skos:closeMatch>
-    <rdfs:seeAlso>http://id.worldcat.org/fast/1018997</rdfs:seeAlso>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106668608</rdfs:seeAlso>
+    <skos:altLabel>Slavery newspapers</skos:altLabel>
+    <skos:narrower>https://doi.org/10.6069/uwlib.55.d.5#ngl078</skos:narrower>
+    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl014</skos:related>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107178453</rdfs:seeAlso>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl023">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl106">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
     <skos:prefLabel xml:lang="eng">
-            Civil service newspapers
+            Multicultural newspapers
         </skos:prefLabel>
-    <skos:broader>https://doi.org/10.6069/uwlib.55.d.5#ngl051</skos:broader>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107183126</rdfs:seeAlso>
+    <skos:scopeNote>Use for newspapers about multicultural issues, racial equality, or diversity. Also use for newspapers covering issues of more than one ethnic group.</skos:scopeNote>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107182188</rdfs:seeAlso>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl026">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl043">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
     <skos:prefLabel xml:lang="eng">
-            Communist newspapers
+            High school student newspapers
         </skos:prefLabel>
-    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl009</skos:related>
-    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl058</skos:related>
-    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl081</skos:related>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106651430</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl104">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Collection"/>
-    <skos:prefLabel xml:lang="eng">
-            Religious denomination newspapers
-        </skos:prefLabel>
-    <skos:note>Use specific descriptors, e.g., Baptist newspapers, Catholic newspapers, Non-denominational newspapers</skos:note>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl102">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Collection"/>
-    <skos:prefLabel xml:lang="eng">
-            Minority newspapers
-        </skos:prefLabel>
-    <skos:note>Use specific descriptors, e.g., Jewish newspapers, Gay newspapers, etc.</skos:note>
+    <skos:broader>https://doi.org/10.6069/uwlib.55.d.5#ngl087</skos:broader>
+    <skos:closeMatch>http://id.loc.gov/authorities/subjects/sh85129277</skos:closeMatch>
+    <rdfs:seeAlso>http://id.worldcat.org/fast/1135965</rdfs:seeAlso>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106661426</rdfs:seeAlso>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl117">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -686,112 +257,37 @@
     <skos:broader>https://doi.org/10.6069/uwlib.55.d.5#ngl065</skos:broader>
     <rdfs:seeAlso>http://www.wikidata.org/entity/Q107178411</rdfs:seeAlso>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl030">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl065">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
     <skos:prefLabel xml:lang="eng">
-            Consumer cooperative newspapers
+            Native American newspapers
         </skos:prefLabel>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107236569</rdfs:seeAlso>
+    <skos:note>Also apply other genre or subject headings for particular tribes and geographic locations if appropriate, e.g., Lummi newspapers;  Blackfoot newspapers;  Yakama newspapers.</skos:note>
+    <skos:note>Note under Tribal newspapers</skos:note>
+    <skos:altLabel>American Indian newspapers</skos:altLabel>
+    <skos:altLabel>Indian newspapers</skos:altLabel>
+    <skos:narrower>https://doi.org/10.6069/uwlib.55.d.5#ngl004</skos:narrower>
+    <skos:closeMatch>http://id.loc.gov/authorities/subjects/sh85064983</skos:closeMatch>
+    <rdfs:seeAlso>http://id.worldcat.org/fast/969154</rdfs:seeAlso>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107171989</rdfs:seeAlso>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl033">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl047">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
     <skos:prefLabel xml:lang="eng">
-            Environmental newspapers
+            Japanese American evacuation and relocation camp newspapers
         </skos:prefLabel>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107182194</rdfs:seeAlso>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107236966</rdfs:seeAlso>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl076">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl015">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
     <skos:prefLabel xml:lang="eng">
-            Retirees' newspapers
+            Art newspapers
         </skos:prefLabel>
-    <skos:altLabel>Retiree newspapers</skos:altLabel>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107170468</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl031">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            County fair newspapers
-        </skos:prefLabel>
-    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl002</skos:related>
-    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl083</skos:related>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107182201</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl096">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            Unemployment newspapers
-        </skos:prefLabel>
-    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl051</skos:related>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107258714</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl027">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            Community newspapers
-        </skos:prefLabel>
-    <skos:altLabel>Neighborhood newspapers</skos:altLabel>
-    <skos:altLabel>Suburban newspapers</skos:altLabel>
-    <skos:scopeNote>Use for local newspapers published for a particular neighborhood within a city or county jurisdiction.</skos:scopeNote>
-    <skos:closeMatch>http://id.loc.gov/authorities/subjects/sh85029253</skos:closeMatch>
-    <rdfs:seeAlso></rdfs:seeAlso>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106651444</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl115">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            Non-denominational newspapers
-        </skos:prefLabel>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107259317</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl101">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Collection"/>
-    <skos:prefLabel xml:lang="eng">
-            Foreign language newspapers
-        </skos:prefLabel>
-    <skos:note>other genre and/or subject headings for particular groups if appropriate. Code bibliographic record for language.</skos:note>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl061">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            Migrant labor camp newspapers
-        </skos:prefLabel>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107181979</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl068">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            Prison newspapers
-        </skos:prefLabel>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106676147</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl005">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            Amateur newspapers
-        </skos:prefLabel>
-    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl020</skos:related>
-    <skos:scopeNote>Use for newspapers written, published and printed by those engaged in these pursuits as a pastime rather than as a profession.</skos:scopeNote>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107170655</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl067">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            Pacifist newspapers
-        </skos:prefLabel>
-    <skos:altLabel>Anti-war newspapers</skos:altLabel>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107182322</rdfs:seeAlso>
+    <skos:scopeNote>Use for newspapers covering news about the fine arts.</skos:scopeNote>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106651333</rdfs:seeAlso>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl003">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -803,14 +299,85 @@
     <skos:scopeNote>Use for newspapers which feature general news stories and which focus on specific topics such as livestock, animal culture, produce, farm life, etc.</skos:scopeNote>
     <rdfs:seeAlso>http://www.wikidata.org/entity/Q106651073</rdfs:seeAlso>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl045">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl068">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
     <skos:prefLabel xml:lang="eng">
-            Hospital newspapers
+            Prison newspapers
         </skos:prefLabel>
-    <skos:broader>https://doi.org/10.6069/uwlib.55.d.5#ngl059</skos:broader>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106664450</rdfs:seeAlso>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106676147</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl099">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            Women's newspapers
+        </skos:prefLabel>
+    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl034</skos:related>
+    <skos:scopeNote>Use for newspapers whose intended audience is women.</skos:scopeNote>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106652977</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl062">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            Military base newspapers
+        </skos:prefLabel>
+    <skos:altLabel>Military post newspapers</skos:altLabel>
+    <skos:broader>https://doi.org/10.6069/uwlib.55.d.5#ngl108</skos:broader>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107182185</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl080">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            Shopping guides
+        </skos:prefLabel>
+    <skos:altLabel>Shopper's guides</skos:altLabel>
+    <skos:scopeNote>Use for local newspapers which are primarily advertising media but which include substantive local news items and articles.</skos:scopeNote>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107181454</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl046">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            Industry newspapers
+        </skos:prefLabel>
+    <skos:narrower>https://doi.org/10.6069/uwlib.55.d.5#ngl035</skos:narrower>
+    <skos:narrower>https://doi.org/10.6069/uwlib.55.d.5#ngl055</skos:narrower>
+    <skos:narrower>https://doi.org/10.6069/uwlib.55.d.5#ngl057</skos:narrower>
+    <skos:narrower>https://doi.org/10.6069/uwlib.55.d.5#ngl063</skos:narrower>
+    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl018</skos:related>
+    <skos:scopeNote>Use for newspapers about profit-making enterprises that produce or supply goods, services, or sources of income.</skos:scopeNote>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106635283</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl067">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            Pacifist newspapers
+        </skos:prefLabel>
+    <skos:altLabel>Anti-war newspapers</skos:altLabel>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107182322</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl018">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            Business and financial newspapers
+        </skos:prefLabel>
+    <skos:altLabel>Commercial newspapers</skos:altLabel>
+    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl046</skos:related>
+    <skos:scopeNote>Use for newspapers which feature general news and which focus on specific topics such as insurance, investments, marketing, etc.</skos:scopeNote>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106651372</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl082">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            Sports newspapers
+        </skos:prefLabel>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q11313190</rdfs:seeAlso>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl094">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -825,42 +392,227 @@
     <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl086</skos:related>
     <rdfs:seeAlso>http://www.wikidata.org/entity/Q106687639</rdfs:seeAlso>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl017">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl052">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
     <skos:prefLabel xml:lang="eng">
-            Atheist newspapers
+            Lampoon newspapers
         </skos:prefLabel>
-    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl013</skos:related>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106651338</rdfs:seeAlso>
+    <skos:scopeNote>Use for newspapers which satirize current events and people.</skos:scopeNote>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107181810</rdfs:seeAlso>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl035">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl020">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
     <skos:prefLabel xml:lang="eng">
-            Fisheries newspapers
+            Children's newspapers
+        </skos:prefLabel>
+    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl005</skos:related>
+    <skos:scopeNote>Use for newspapers published by children or specifically for children.</skos:scopeNote>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106651387</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl011">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            Anti-Masonic newspapers
+        </skos:prefLabel>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106651156</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl100">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Collection"/>
+    <skos:prefLabel xml:lang="eng">
+            Ethnic newspapers
+        </skos:prefLabel>
+    <skos:note>Use specific two-term descriptors that identify the ethnicity of the readership, e.g., African American newspapers, Japanese American newspapers, Chinese Canadian newspapers, etc. One term applies to the readership of the newspaper who identify with a particular ethnicity  (e.g., a publication produced by a Punjabi community would receive the term "Punjabi" rather than "Pakistani" or "East Indian"). Another term applies to the larger culture in which the group resides (e.g., American, Canadian).</skos:note>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl036">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            Free circulation newspapers
+        </skos:prefLabel>
+    <skos:altLabel>Free distribution newspapers</skos:altLabel>
+    <skos:closeMatch>http://id.loc.gov/authorities/subjects/sh86002473</skos:closeMatch>
+    <rdfs:seeAlso>http://id.worldcat.org/fast/933854</rdfs:seeAlso>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q142043</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl055">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            Lumbering newspapers
         </skos:prefLabel>
     <skos:broader>https://doi.org/10.6069/uwlib.55.d.5#ngl046</skos:broader>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107236776</rdfs:seeAlso>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107181855</rdfs:seeAlso>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl086">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl085">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
     <skos:prefLabel xml:lang="eng">
-            Strike newspapers
+            Street newspapers
         </skos:prefLabel>
-    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl094</skos:related>
-    <skos:scopeNote>Use for newspapers associated with labor strikes.</skos:scopeNote>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107208914</rdfs:seeAlso>
+    <skos:altLabel>Homeless newspapers</skos:altLabel>
+    <skos:closeMatch>http://id.loc.gov/authorities/subjects/sh2001000052</skos:closeMatch>
+    <rdfs:seeAlso>http://id.worldcat.org/fast/1134709</rdfs:seeAlso>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q2006125</rdfs:seeAlso>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl108">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl014">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
     <skos:prefLabel xml:lang="eng">
-            Military newspapers
+            Anti-slavery newspapers
         </skos:prefLabel>
-    <skos:narrower>https://doi.org/10.6069/uwlib.55.d.5#ngl062</skos:narrower>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106668646</rdfs:seeAlso>
+    <skos:altLabel>Abolitionist newspapers</skos:altLabel>
+    <skos:altLabel>Antislavery newspapers</skos:altLabel>
+    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl072</skos:related>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106651322</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl110">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            Democratic Party newspapers
+        </skos:prefLabel>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107236680</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl089">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            Summer camp newspapers
+        </skos:prefLabel>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107258494</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl009">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            Anti-communist newspapers
+        </skos:prefLabel>
+    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl026</skos:related>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106651150</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl019">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            Campaign newspapers
+        </skos:prefLabel>
+    <skos:altLabel>Political campaign newspapers</skos:altLabel>
+    <skos:scopeNote>Use for newspapers published during a national or state election year which are party affiliated and usually limited to a calendar year.</skos:scopeNote>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107182456</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl070">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            Propaganda newspapers
+        </skos:prefLabel>
+    <skos:scopeNote>Use for newspapers produced by a group or movement organized for spreading a particular doctrine or system of principles.</skos:scopeNote>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106677807</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl087">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            Student newspapers
+        </skos:prefLabel>
+    <skos:narrower>https://doi.org/10.6069/uwlib.55.d.5#ngl025</skos:narrower>
+    <skos:narrower>https://doi.org/10.6069/uwlib.55.d.5#ngl043</skos:narrower>
+    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl077</skos:related>
+    <skos:closeMatch>http://id.loc.gov/authorities/subjects/sh85129277</skos:closeMatch>
+    <skos:closeMatch>http://id.loc.gov/authorities/childrensSubjects/sj2002006650</skos:closeMatch>
+    <rdfs:seeAlso>http://id.worldcat.org/fast/1135965</rdfs:seeAlso>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q738377</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl091">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            Tabloid newspapers
+        </skos:prefLabel>
+    <skos:scopeNote>Use for newspapers characterized by sensationalism, usually of a small size and presenting news in a concise form.</skos:scopeNote>
+    <skos:closeMatch>http://id.loc.gov/authorities/subjects/sh85131819</skos:closeMatch>
+    <rdfs:seeAlso>http://vocab.getty.edu/aat/300404424</rdfs:seeAlso>
+    <rdfs:seeAlso>http://id.worldcat.org/fast/1141790</rdfs:seeAlso>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106650967</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl116">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            Cheyenne newspapers
+        </skos:prefLabel>
+    <skos:broader>https://doi.org/10.6069/uwlib.55.d.5#ngl065</skos:broader>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107182467</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+    <schema:disambiguatingDescription xml:lang="en">SKOS Concept Scheme</schema:disambiguatingDescription>
+    <dc:creator xml:lang="en">University of Washington Libraries Government Publications, Maps, Microforms and Newspapers</dc:creator>
+    <dct:title xml:lang="en">Newspaper Genre List</dct:title>
+    <dc:publisher xml:lang="en">University of Washington Libraries</dc:publisher>
+    <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
+    <dct:issued>2021</dct:issued>
+    <dc:language>en</dc:language>
+    <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_ngl/newspaper_genre_list.html"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_ngl/newspaper_genre_list.json"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_ngl/newspaper_genre_list.nt"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_ngl/newspaper_genre_list.ttl"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_ngl/newspaper_genre_list.xml"/>
+    <dct:hasFormat rdf:resource="https://www.lib.washington.edu/gmm/collections/mcnews/ngl/"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_ngl/newspaper_genre_list.jsonld"/>
+    <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0"/>
+    <dct:description xml:lang="en">Terms used to designate genres of newspapers.</dct:description>
+    <schema:version>1-1-2</schema:version>
+    <dc:contributor>Jessica Albano</dc:contributor>
+    <rdfs:seeAlso rdf:resource="http://www.wikidata.org/entity/Q106632466"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl119">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            Yakama newspapers
+        </skos:prefLabel>
+    <skos:broader>https://doi.org/10.6069/uwlib.55.d.5#ngl065</skos:broader>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107171988</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl001">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            African American newspapers
+        </skos:prefLabel>
+    <skos:altLabel>Afro-American newspapers</skos:altLabel>
+    <skos:altLabel>Negro newspapers (American)</skos:altLabel>
+    <skos:altLabel>Black newspapers (American)</skos:altLabel>
+    <skos:closeMatch>http://id.loc.gov/authorities/subjects/sh85001873</skos:closeMatch>
+    <rdfs:seeAlso>http://id.worldcat.org/fast/799278</rdfs:seeAlso>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q4689686</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl060">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            Mexican American newspapers
+        </skos:prefLabel>
+    <skos:altLabel>Chicano newspapers</skos:altLabel>
+    <skos:broader>https://doi.org/10.6069/uwlib.55.d.5#ngl044</skos:broader>
+    <skos:closeMatch>http://id.loc.gov/authorities/subjects/sh89005391</skos:closeMatch>
+    <rdfs:seeAlso>http://id.worldcat.org/fast/1018997</rdfs:seeAlso>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106668608</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl037">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            Friendly society newspapers
+        </skos:prefLabel>
+    <skos:altLabel>Fraternal newspapers</skos:altLabel>
+    <skos:scopeNote>Use for newspapers produced under the aegis of the Masons, Odd Fellows, et al.</skos:scopeNote>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107236849</rdfs:seeAlso>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl075">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -880,6 +632,425 @@
     <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl069</skos:related>
     <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl093</skos:related>
     <rdfs:seeAlso>http://www.wikidata.org/entity/Q106676417</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl066">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            Non-partisan newspapers
+        </skos:prefLabel>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106671524</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl022">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            Civil rights newspapers
+        </skos:prefLabel>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107183119</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl042">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            Handicapped persons' newspapers
+        </skos:prefLabel>
+    <skos:altLabel>Disabled newspapers</skos:altLabel>
+    <skos:scopeNote>Use for newspapers published for and about the disabled.</skos:scopeNote>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107236603</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl008">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            Anti-Chinese newspapers
+        </skos:prefLabel>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107171978</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl023">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            Civil service newspapers
+        </skos:prefLabel>
+    <skos:broader>https://doi.org/10.6069/uwlib.55.d.5#ngl051</skos:broader>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107183126</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl053">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            Lawyers' newspapers
+        </skos:prefLabel>
+    <skos:altLabel>Law newspapers</skos:altLabel>
+    <skos:altLabel>Legal newspapers</skos:altLabel>
+    <skos:scopeNote>Use for newspapers produced for and by lawyers.</skos:scopeNote>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106668332</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl024">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            Civilian Conservation Corps newspapers
+        </skos:prefLabel>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107183138</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl006">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            Anarchist newspapers
+        </skos:prefLabel>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106651089</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl051">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            Labor newspapers
+        </skos:prefLabel>
+    <skos:narrower>https://doi.org/10.6069/uwlib.55.d.5#ngl023</skos:narrower>
+    <skos:narrower>https://doi.org/10.6069/uwlib.55.d.5#ngl094</skos:narrower>
+    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl096</skos:related>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106668248</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl002">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            Agricultural exhibition newspapers
+        </skos:prefLabel>
+    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl031</skos:related>
+    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl083</skos:related>
+    <skos:scopeNote>Use for newspapers which report on competitive exhibitions of farm products, livestock, baked goods, etc. with prizes for excellence, often combined with carnival-like entertainment, and held annually by states, counties, etc.</skos:scopeNote>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107170506</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl063">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            Mining newspapers
+        </skos:prefLabel>
+    <skos:broader>https://doi.org/10.6069/uwlib.55.d.5#ngl046</skos:broader>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106668702</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl040">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            Ghost town newspapers
+        </skos:prefLabel>
+    <skos:scopeNote>Use for newspapers published in towns which are now abandoned.</skos:scopeNote>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107236883</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl059">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            Medical newspapers
+        </skos:prefLabel>
+    <skos:narrower>https://doi.org/10.6069/uwlib.55.d.5#ngl045</skos:narrower>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106668535</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl005">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            Amateur newspapers
+        </skos:prefLabel>
+    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl020</skos:related>
+    <skos:scopeNote>Use for newspapers written, published and printed by those engaged in these pursuits as a pastime rather than as a profession.</skos:scopeNote>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107170655</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl104">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Collection"/>
+    <skos:prefLabel xml:lang="eng">
+            Religious denomination newspapers
+        </skos:prefLabel>
+    <skos:note>Use specific descriptors, e.g., Baptist newspapers, Catholic newspapers, Non-denominational newspapers</skos:note>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl074">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            Referendum newspapers
+        </skos:prefLabel>
+    <skos:scopeNote>Use for newspapers of limited duration established and printed in support of local or state political issues.</skos:scopeNote>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107170485</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl073">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            Real estate development newspapers
+        </skos:prefLabel>
+    <skos:altLabel>Booster newspapers</skos:altLabel>
+    <skos:scopeNote>Use for newspapers primarily intended to promote local economic activity by touting the assets of the community.</skos:scopeNote>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106677940</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl108">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            Military newspapers
+        </skos:prefLabel>
+    <skos:narrower>https://doi.org/10.6069/uwlib.55.d.5#ngl062</skos:narrower>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106668646</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl017">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            Atheist newspapers
+        </skos:prefLabel>
+    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl013</skos:related>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106651338</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl088">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            Suffrage newspapers
+        </skos:prefLabel>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106650857</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl098">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            Veterans' newspapers
+        </skos:prefLabel>
+    <skos:altLabel>War veterans' newspapers</skos:altLabel>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106687653</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl026">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            Communist newspapers
+        </skos:prefLabel>
+    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl009</skos:related>
+    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl058</skos:related>
+    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl081</skos:related>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106651430</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl095">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            Underground newspapers
+        </skos:prefLabel>
+    <skos:altLabel>Alternative newspapers</skos:altLabel>
+    <skos:scopeNote>Use for newspapers published or produced by political or social radicals or nonconformists.</skos:scopeNote>
+    <skos:closeMatch>http://id.loc.gov/authorities/subjects/sh96010278</skos:closeMatch>
+    <rdfs:seeAlso>http://id.worldcat.org/fast/1160953</rdfs:seeAlso>
+    <rdfs:seeAlso>http://id.loc.gov/vocabulary/graphicMaterials/tgm011198</rdfs:seeAlso>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q4736543</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl054">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            Literary newspapers
+        </skos:prefLabel>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106668420</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl093">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            Temperance newspapers
+        </skos:prefLabel>
+    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl069</skos:related>
+    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl012</skos:related>
+    <skos:scopeNote>Use for newspapers advocating abstinence from the use of alcohol or prohibition by law of the sale of or manufacture of alcohol.</skos:scopeNote>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106687644</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl039">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            Gazettes
+        </skos:prefLabel>
+    <skos:altLabel>Official gazettes</skos:altLabel>
+    <skos:altLabel>Legal gazettes</skos:altLabel>
+    <skos:altLabel>Government gazettes</skos:altLabel>
+    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl041</skos:related>
+    <skos:scopeNote>Use for newspapers sanctioned by the U.S. or state government as official publishers.</skos:scopeNote>
+    <skos:closeMatch>http://id.loc.gov/authorities/subjects/sh85053597</skos:closeMatch>
+    <rdfs:seeAlso>http://id.worldcat.org/fast/939356</rdfs:seeAlso>
+    <rdfs:seeAlso></rdfs:seeAlso>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q2065227</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl115">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            Non-denominational newspapers
+        </skos:prefLabel>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107259317</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl111">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            Republican Party newspapers
+        </skos:prefLabel>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107259292</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl064">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            Mission newspapers
+        </skos:prefLabel>
+    <skos:scopeNote>Use for newspapers produced for local or national Evangelical or missionary audiences. May be published by a church or non-denominational group.</skos:scopeNote>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106676186</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl069">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            Prohibition newspapers
+        </skos:prefLabel>
+    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl012</skos:related>
+    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl093</skos:related>
+    <skos:scopeNote>Use for newspapers advocating the legal prevention of the manufacture and sale of alcoholic beverages.</skos:scopeNote>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106676275</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl107">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            Conservative newspapers
+        </skos:prefLabel>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107183151</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl029">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            Conference newspapers
+        </skos:prefLabel>
+    <skos:scopeNote>Use for newspapers published usually on a daily basis during annual meetings of major organizations.</skos:scopeNote>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107183145</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl033">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            Environmental newspapers
+        </skos:prefLabel>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107182194</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl097">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            Utopian newspapers
+        </skos:prefLabel>
+    <skos:scopeNote>Use for newspapers associated with he expression of visionary or ideal schemes for the perfection of social or political conditions.</skos:scopeNote>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107258724</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl032">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            Entertainment newspapers
+        </skos:prefLabel>
+    <skos:altLabel>Popular entertainment newspapers</skos:altLabel>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106652786</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl120">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            Chinese Canadian newspapers
+        </skos:prefLabel>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107183122</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl016">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            Asian American newspapers
+        </skos:prefLabel>
+    <skos:closeMatch>http://id.loc.gov/authorities/subjects/sh85008641</skos:closeMatch>
+    <rdfs:seeAlso>http://id.worldcat.org/fast/818594</rdfs:seeAlso>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106651343</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl045">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            Hospital newspapers
+        </skos:prefLabel>
+    <skos:broader>https://doi.org/10.6069/uwlib.55.d.5#ngl059</skos:broader>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106664450</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl112">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            Whig Party newspapers
+        </skos:prefLabel>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106671613</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl102">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Collection"/>
+    <skos:prefLabel xml:lang="eng">
+            Minority newspapers
+        </skos:prefLabel>
+    <skos:note>Use specific descriptors, e.g., Jewish newspapers, Gay newspapers, etc.</skos:note>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl096">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            Unemployment newspapers
+        </skos:prefLabel>
+    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl051</skos:related>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107258714</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl035">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            Fisheries newspapers
+        </skos:prefLabel>
+    <skos:broader>https://doi.org/10.6069/uwlib.55.d.5#ngl046</skos:broader>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107236776</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl027">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            Community newspapers
+        </skos:prefLabel>
+    <skos:altLabel>Neighborhood newspapers</skos:altLabel>
+    <skos:altLabel>Suburban newspapers</skos:altLabel>
+    <skos:scopeNote>Use for local newspapers published for a particular neighborhood within a city or county jurisdiction.</skos:scopeNote>
+    <skos:closeMatch>http://id.loc.gov/authorities/subjects/sh85029253</skos:closeMatch>
+    <rdfs:seeAlso></rdfs:seeAlso>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106651444</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl103">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Collection"/>
+    <skos:prefLabel xml:lang="eng">
+            Political party newspapers
+        </skos:prefLabel>
+    <skos:note>Use specific party descriptors, e.g., Democratic Party newspapers, Republican Party newspapers, Whig Party newspapers, etc.</skos:note>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q442927</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl031">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            County fair newspapers
+        </skos:prefLabel>
+    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl002</skos:related>
+    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl083</skos:related>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107182201</rdfs:seeAlso>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl056">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -902,165 +1073,16 @@
     <rdfs:seeAlso>http://id.worldcat.org/fast/867966</rdfs:seeAlso>
     <rdfs:seeAlso>http://www.wikidata.org/entity/Q106162750</rdfs:seeAlso>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl112">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl079">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
     <skos:prefLabel xml:lang="eng">
-            Whig Party newspapers
+            Ship newspapers
         </skos:prefLabel>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106671613</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl110">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            Democratic Party newspapers
-        </skos:prefLabel>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107236680</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl020">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            Children's newspapers
-        </skos:prefLabel>
-    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl005</skos:related>
-    <skos:scopeNote>Use for newspapers published by children or specifically for children.</skos:scopeNote>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106651387</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl057">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            Maritime newspapers
-        </skos:prefLabel>
-    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl079</skos:related>
-    <skos:broader>https://doi.org/10.6069/uwlib.55.d.5#ngl046</skos:broader>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106635276</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl034">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            Feminist newspapers
-        </skos:prefLabel>
-    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl099</skos:related>
-    <skos:scopeNote>Use for newspapers advocating social and political rights of women equal to men.</skos:scopeNote>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106652971</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl085">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            Street newspapers
-        </skos:prefLabel>
-    <skos:altLabel>Homeless newspapers</skos:altLabel>
-    <skos:closeMatch>http://id.loc.gov/authorities/subjects/sh2001000052</skos:closeMatch>
-    <rdfs:seeAlso>http://id.worldcat.org/fast/1134709</rdfs:seeAlso>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q2006125</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl054">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            Literary newspapers
-        </skos:prefLabel>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106668420</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl047">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            Japanese American evacuation and relocation camp newspapers
-        </skos:prefLabel>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107236966</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl106">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            Multicultural newspapers
-        </skos:prefLabel>
-    <skos:scopeNote>Use for newspapers about multicultural issues, racial equality, or diversity. Also use for newspapers covering issues of more than one ethnic group.</skos:scopeNote>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107182188</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl059">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            Medical newspapers
-        </skos:prefLabel>
-    <skos:narrower>https://doi.org/10.6069/uwlib.55.d.5#ngl045</skos:narrower>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106668535</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl049">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            Jewish newspapers
-        </skos:prefLabel>
-    <skos:closeMatch>http://id.loc.gov/authorities/subjects/sh85070310</skos:closeMatch>
-    <rdfs:seeAlso>http://id.worldcat.org/fast/982872</rdfs:seeAlso>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106664582</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl114">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            Catholic newspapers
-        </skos:prefLabel>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106678098</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl029">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            Conference newspapers
-        </skos:prefLabel>
-    <skos:scopeNote>Use for newspapers published usually on a daily basis during annual meetings of major organizations.</skos:scopeNote>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107183145</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl100">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Collection"/>
-    <skos:prefLabel xml:lang="eng">
-            Ethnic newspapers
-        </skos:prefLabel>
-    <skos:note>Use specific two-term descriptors that identify the ethnicity of the readership, e.g., African American newspapers, Japanese American newspapers, Chinese Canadian newspapers, etc. One term applies to the readership of the newspaper who identify with a particular ethnicity  (e.g., a publication produced by a Punjabi community would receive the term "Punjabi" rather than "Pakistani" or "East Indian"). Another term applies to the larger culture in which the group resides (e.g., American, Canadian).</skos:note>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl009">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            Anti-communist newspapers
-        </skos:prefLabel>
-    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl026</skos:related>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106651150</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl080">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            Shopping guides
-        </skos:prefLabel>
-    <skos:altLabel>Shopper's guides</skos:altLabel>
-    <skos:scopeNote>Use for local newspapers which are primarily advertising media but which include substantive local news items and articles.</skos:scopeNote>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107181454</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl089">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            Summer camp newspapers
-        </skos:prefLabel>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107258494</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl103">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Collection"/>
-    <skos:prefLabel xml:lang="eng">
-            Political party newspapers
-        </skos:prefLabel>
-    <skos:note>Use specific party descriptors, e.g., Democratic Party newspapers, Republican Party newspapers, Whig Party newspapers, etc.</skos:note>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q442927</rdfs:seeAlso>
+    <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl057</skos:related>
+    <skos:closeMatch>http://id.loc.gov/authorities/subjects/sh88000898</skos:closeMatch>
+    <rdfs:seeAlso>http://id.worldcat.org/fast/1116186</rdfs:seeAlso>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106687540</rdfs:seeAlso>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl058">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -1072,22 +1094,37 @@
     <skos:related>https://doi.org/10.6069/uwlib.55.d.5#ngl081</skos:related>
     <rdfs:seeAlso>http://www.wikidata.org/entity/Q106668471</rdfs:seeAlso>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl055">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl010">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
     <skos:prefLabel xml:lang="eng">
-            Lumbering newspapers
+            Anti-fascist newspapers
         </skos:prefLabel>
-    <skos:broader>https://doi.org/10.6069/uwlib.55.d.5#ngl046</skos:broader>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107181855</rdfs:seeAlso>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107171980</rdfs:seeAlso>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl107">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl105">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Collection"/>
+    <skos:prefLabel xml:lang="eng">
+            Tribal newspapers
+        </skos:prefLabel>
+    <skos:note>descriptors that identify tribal community or communities for whom the newspaper is published, e.g., Cheyenne newspapers, Lummi newspapers. Assign also the descriptor Native American newspapers.</skos:note>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl028">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
     <skos:prefLabel xml:lang="eng">
-            Conservative newspapers
+            Company town newspapers
         </skos:prefLabel>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107183151</rdfs:seeAlso>
+    <skos:scopeNote>Use for newspapers published for towns where one main company employs most of the community.</skos:scopeNote>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107181559</rdfs:seeAlso>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl050">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+    <skos:prefLabel xml:lang="eng">
+            Ku Klux Klan newspapers
+        </skos:prefLabel>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107237013</rdfs:seeAlso>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl007">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -1099,16 +1136,6 @@
     <skos:scopeNote>Use for newspapers which regularly feature articles which speak out against Catholicism.</skos:scopeNote>
     <rdfs:seeAlso>http://www.wikidata.org/entity/Q106651148</rdfs:seeAlso>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl019">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            Campaign newspapers
-        </skos:prefLabel>
-    <skos:altLabel>Political campaign newspapers</skos:altLabel>
-    <skos:scopeNote>Use for newspapers published during a national or state election year which are party affiliated and usually limited to a calendar year.</skos:scopeNote>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107182456</rdfs:seeAlso>
-  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl090">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
@@ -1117,21 +1144,13 @@
         </skos:prefLabel>
     <rdfs:seeAlso>http://www.wikidata.org/entity/Q106650895</rdfs:seeAlso>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl066">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl071">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
     <skos:prefLabel xml:lang="eng">
-            Non-partisan newspapers
+            Pro-life newspapers
         </skos:prefLabel>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106671524</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl088">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            Suffrage newspapers
-        </skos:prefLabel>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106650857</rdfs:seeAlso>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106677862</rdfs:seeAlso>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl118">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -1142,47 +1161,28 @@
     <skos:broader>https://doi.org/10.6069/uwlib.55.d.5#ngl065</skos:broader>
     <rdfs:seeAlso>http://www.wikidata.org/entity/Q107182376</rdfs:seeAlso>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl098">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl076">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
     <skos:prefLabel xml:lang="eng">
-            Veterans' newspapers
+            Retirees' newspapers
         </skos:prefLabel>
-    <skos:altLabel>War veterans' newspapers</skos:altLabel>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106687653</rdfs:seeAlso>
+    <skos:altLabel>Retiree newspapers</skos:altLabel>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107170468</rdfs:seeAlso>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl016">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl101">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Collection"/>
     <skos:prefLabel xml:lang="eng">
-            Asian American newspapers
+            Foreign language newspapers
         </skos:prefLabel>
-    <skos:closeMatch>http://id.loc.gov/authorities/subjects/sh85008641</skos:closeMatch>
-    <rdfs:seeAlso>http://id.worldcat.org/fast/818594</rdfs:seeAlso>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106651343</rdfs:seeAlso>
+    <skos:note>other genre and/or subject headings for particular groups if appropriate. Code bibliographic record for language.</skos:note>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl050">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl061">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
     <skos:prefLabel xml:lang="eng">
-            Ku Klux Klan newspapers
+            Migrant labor camp newspapers
         </skos:prefLabel>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107237013</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl011">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            Anti-Masonic newspapers
-        </skos:prefLabel>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106651156</rdfs:seeAlso>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.d.5#ngl006">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q106632462"/>
-    <skos:prefLabel xml:lang="eng">
-            Anarchist newspapers
-        </skos:prefLabel>
-    <rdfs:seeAlso>http://www.wikidata.org/entity/Q106651089</rdfs:seeAlso>
+    <rdfs:seeAlso>http://www.wikidata.org/entity/Q107181979</rdfs:seeAlso>
   </rdf:Description>
 </rdf:RDF>

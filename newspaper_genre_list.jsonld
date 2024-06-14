@@ -1,89 +1,242 @@
 [
   {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl026",
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl119",
     "@type": [
       "http://www.w3.org/2004/02/skos/core#Concept",
       "http://www.wikidata.org/entity/Q106632462"
     ],
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@value": "http://www.wikidata.org/entity/Q106651430"
+        "@value": "http://www.wikidata.org/entity/Q107171988"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl065"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "eng",
-        "@value": "\n            Communist newspapers\n        "
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#related": [
-      {
-        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl009"
-      },
-      {
-        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl058"
-      },
-      {
-        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl081"
+        "@value": "\n            Yakama newspapers\n        "
       }
     ]
   },
   {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl082",
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl067",
     "@type": [
       "http://www.w3.org/2004/02/skos/core#Concept",
       "http://www.wikidata.org/entity/Q106632462"
     ],
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@value": "http://www.wikidata.org/entity/Q11313190"
+        "@value": "http://www.wikidata.org/entity/Q107182322"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@value": "Anti-war newspapers"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "eng",
-        "@value": "\n            Sports newspapers\n        "
+        "@value": "\n            Pacifist newspapers\n        "
       }
     ]
   },
   {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl059",
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl104",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Collection"
+    ],
+    "http://www.w3.org/2004/02/skos/core#note": [
+      {
+        "@value": "Use specific descriptors, e.g., Baptist newspapers, Catholic newspapers, Non-denominational newspapers"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            Religious denomination newspapers\n        "
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl101",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Collection"
+    ],
+    "http://www.w3.org/2004/02/skos/core#note": [
+      {
+        "@value": "other genre and/or subject headings for particular groups if appropriate. Code bibliographic record for language."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            Foreign language newspapers\n        "
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl001",
     "@type": [
       "http://www.w3.org/2004/02/skos/core#Concept",
       "http://www.wikidata.org/entity/Q106632462"
     ],
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@value": "http://www.wikidata.org/entity/Q106668535"
+        "@value": "http://id.worldcat.org/fast/799278"
+      },
+      {
+        "@value": "http://www.wikidata.org/entity/Q4689686"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@value": "Afro-American newspapers"
+      },
+      {
+        "@value": "Negro newspapers (American)"
+      },
+      {
+        "@value": "Black newspapers (American)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@value": "http://id.loc.gov/authorities/subjects/sh85001873"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            African American newspapers\n        "
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl071",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept",
+      "http://www.wikidata.org/entity/Q106632462"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q106677862"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            Pro-life newspapers\n        "
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl120",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept",
+      "http://www.wikidata.org/entity/Q106632462"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q107183122"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            Chinese Canadian newspapers\n        "
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl118",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept",
+      "http://www.wikidata.org/entity/Q106632462"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q107182376"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl065"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            Blackfoot newspapers\n        "
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl045",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept",
+      "http://www.wikidata.org/entity/Q106632462"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q106664450"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl059"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            Hospital newspapers\n        "
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl046",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept",
+      "http://www.wikidata.org/entity/Q106632462"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q106635283"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#narrower": [
       {
-        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl045"
+        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl035"
+      },
+      {
+        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl055"
+      },
+      {
+        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl057"
+      },
+      {
+        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl063"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "eng",
-        "@value": "\n            Medical newspapers\n        "
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl011",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept",
-      "http://www.wikidata.org/entity/Q106632462"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@value": "http://www.wikidata.org/entity/Q106651156"
+        "@value": "\n            Industry newspapers\n        "
       }
     ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+    "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@language": "eng",
-        "@value": "\n            Anti-Masonic newspapers\n        "
+        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl018"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@value": "Use for newspapers about profit-making enterprises that produce or supply goods, services, or sources of income."
       }
     ]
   },
@@ -129,286 +282,219 @@
     ]
   },
   {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl008",
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl013",
     "@type": [
       "http://www.w3.org/2004/02/skos/core#Concept",
       "http://www.wikidata.org/entity/Q106632462"
     ],
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@value": "http://www.wikidata.org/entity/Q107171978"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "eng",
-        "@value": "\n            Anti-Chinese newspapers\n        "
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl030",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept",
-      "http://www.wikidata.org/entity/Q106632462"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@value": "http://www.wikidata.org/entity/Q107236569"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "eng",
-        "@value": "\n            Consumer cooperative newspapers\n        "
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl014",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept",
-      "http://www.wikidata.org/entity/Q106632462"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@value": "http://www.wikidata.org/entity/Q106651322"
+        "@value": "http://www.wikidata.org/entity/Q107171982"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#altLabel": [
       {
-        "@value": "Abolitionist newspapers"
+        "@value": "Anti-clerical newspapers"
       },
       {
-        "@value": "Antislavery newspapers"
+        "@value": "Anti-clericalism newspapers"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl007"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "eng",
-        "@value": "\n            Anti-slavery newspapers\n        "
+        "@value": "\n            Anti-religious newspapers\n        "
       }
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl072"
+        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl017"
       }
     ]
   },
   {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl060",
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl015",
     "@type": [
       "http://www.w3.org/2004/02/skos/core#Concept",
       "http://www.wikidata.org/entity/Q106632462"
     ],
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@value": "http://id.worldcat.org/fast/1018997"
-      },
-      {
-        "@value": "http://www.wikidata.org/entity/Q106668608"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#altLabel": [
-      {
-        "@value": "Chicano newspapers"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#broader": [
-      {
-        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl044"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#closeMatch": [
-      {
-        "@value": "http://id.loc.gov/authorities/subjects/sh89005391"
+        "@value": "http://www.wikidata.org/entity/Q106651333"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "eng",
-        "@value": "\n            Mexican American newspapers\n        "
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl080",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept",
-      "http://www.wikidata.org/entity/Q106632462"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@value": "http://www.wikidata.org/entity/Q107181454"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#altLabel": [
-      {
-        "@value": "Shopper's guides"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "eng",
-        "@value": "\n            Shopping guides\n        "
+        "@value": "\n            Art newspapers\n        "
       }
     ],
     "http://www.w3.org/2004/02/skos/core#scopeNote": [
       {
-        "@value": "Use for local newspapers which are primarily advertising media but which include substantive local news items and articles."
+        "@value": "Use for newspapers covering news about the fine arts."
       }
     ]
   },
   {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl077",
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl017",
     "@type": [
       "http://www.w3.org/2004/02/skos/core#Concept",
       "http://www.wikidata.org/entity/Q106632462"
     ],
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@value": "http://id.worldcat.org/fast/1135965"
-      },
-      {
-        "@value": "http://www.wikidata.org/entity/Q20850562"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#closeMatch": [
-      {
-        "@value": "http://id.loc.gov/authorities/subjects/sh85129277"
+        "@value": "http://www.wikidata.org/entity/Q106651338"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "eng",
-        "@value": "\n            School newspapers\n        "
+        "@value": "\n            Atheist newspapers\n        "
       }
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl087"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#scopeNote": [
-      {
-        "@value": "Use for newspapers created by schools, but generally not by the student body, e.g., Indian school newspapers."
+        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl013"
       }
     ]
   },
   {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl101",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Collection"
-    ],
-    "http://www.w3.org/2004/02/skos/core#note": [
-      {
-        "@value": "other genre and/or subject headings for particular groups if appropriate. Code bibliographic record for language."
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "eng",
-        "@value": "\n            Foreign language newspapers\n        "
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl016",
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl065",
     "@type": [
       "http://www.w3.org/2004/02/skos/core#Concept",
       "http://www.wikidata.org/entity/Q106632462"
     ],
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@value": "http://id.worldcat.org/fast/818594"
+        "@value": "http://id.worldcat.org/fast/969154"
       },
       {
-        "@value": "http://www.wikidata.org/entity/Q106651343"
+        "@value": "http://www.wikidata.org/entity/Q107171989"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@value": "American Indian newspapers"
+      },
+      {
+        "@value": "Indian newspapers"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#closeMatch": [
       {
-        "@value": "http://id.loc.gov/authorities/subjects/sh85008641"
+        "@value": "http://id.loc.gov/authorities/subjects/sh85064983"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl004"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#note": [
+      {
+        "@value": "Also apply other genre or subject headings for particular tribes and geographic locations if appropriate, e.g., Lummi newspapers;  Blackfoot newspapers;  Yakama newspapers."
+      },
+      {
+        "@value": "Note under Tribal newspapers"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "eng",
-        "@value": "\n            Asian American newspapers\n        "
+        "@value": "\n            Native American newspapers\n        "
       }
     ]
   },
   {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl091",
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl069",
     "@type": [
       "http://www.w3.org/2004/02/skos/core#Concept",
       "http://www.wikidata.org/entity/Q106632462"
     ],
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@value": "http://vocab.getty.edu/aat/300404424"
-      },
-      {
-        "@value": "http://id.worldcat.org/fast/1141790"
-      },
-      {
-        "@value": "http://www.wikidata.org/entity/Q106650967"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#closeMatch": [
-      {
-        "@value": "http://id.loc.gov/authorities/subjects/sh85131819"
+        "@value": "http://www.wikidata.org/entity/Q106676275"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "eng",
-        "@value": "\n            Tabloid newspapers\n        "
+        "@value": "\n            Prohibition newspapers\n        "
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl012"
+      },
+      {
+        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl093"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#scopeNote": [
       {
-        "@value": "Use for newspapers characterized by sensationalism, usually of a small size and presenting news in a concise form."
+        "@value": "Use for newspapers advocating the legal prevention of the manufacture and sale of alcoholic beverages."
       }
     ]
   },
   {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl116",
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl112",
     "@type": [
       "http://www.w3.org/2004/02/skos/core#Concept",
       "http://www.wikidata.org/entity/Q106632462"
     ],
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@value": "http://www.wikidata.org/entity/Q107182467"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#broader": [
-      {
-        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl065"
+        "@value": "http://www.wikidata.org/entity/Q106671613"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "eng",
-        "@value": "\n            Cheyenne newspapers\n        "
+        "@value": "\n            Whig Party newspapers\n        "
       }
     ]
   },
   {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl104",
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl095",
     "@type": [
-      "http://www.w3.org/2004/02/skos/core#Collection"
+      "http://www.w3.org/2004/02/skos/core#Concept",
+      "http://www.wikidata.org/entity/Q106632462"
     ],
-    "http://www.w3.org/2004/02/skos/core#note": [
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@value": "Use specific descriptors, e.g., Baptist newspapers, Catholic newspapers, Non-denominational newspapers"
+        "@value": "http://id.worldcat.org/fast/1160953"
+      },
+      {
+        "@value": "http://id.loc.gov/vocabulary/graphicMaterials/tgm011198"
+      },
+      {
+        "@value": "http://www.wikidata.org/entity/Q4736543"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@value": "Alternative newspapers"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@value": "http://id.loc.gov/authorities/subjects/sh96010278"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "eng",
-        "@value": "\n            Religious denomination newspapers\n        "
+        "@value": "\n            Underground newspapers\n        "
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@value": "Use for newspapers published or produced by political or social radicals or nonconformists."
       }
     ]
   },
@@ -439,341 +525,33 @@
     ]
   },
   {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl086",
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl093",
     "@type": [
       "http://www.w3.org/2004/02/skos/core#Concept",
       "http://www.wikidata.org/entity/Q106632462"
     ],
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@value": "http://www.wikidata.org/entity/Q107208914"
+        "@value": "http://www.wikidata.org/entity/Q106687644"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "eng",
-        "@value": "\n            Strike newspapers\n        "
+        "@value": "\n            Temperance newspapers\n        "
       }
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl094"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#scopeNote": [
-      {
-        "@value": "Use for newspapers associated with labor strikes."
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl009",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept",
-      "http://www.wikidata.org/entity/Q106632462"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@value": "http://www.wikidata.org/entity/Q106651150"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "eng",
-        "@value": "\n            Anti-communist newspapers\n        "
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#related": [
-      {
-        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl026"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl049",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept",
-      "http://www.wikidata.org/entity/Q106632462"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@value": "http://id.worldcat.org/fast/982872"
+        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl069"
       },
       {
-        "@value": "http://www.wikidata.org/entity/Q106664582"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#closeMatch": [
-      {
-        "@value": "http://id.loc.gov/authorities/subjects/sh85070310"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "eng",
-        "@value": "\n            Jewish newspapers\n        "
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl084",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept",
-      "http://www.wikidata.org/entity/Q106632462"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@value": "http://www.wikidata.org/entity/Q107208916"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "eng",
-        "@value": "\n            States' rights newspapers\n        "
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#related": [
-      {
-        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl078"
+        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl012"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#scopeNote": [
       {
-        "@value": "Use for newspapers advocating the strict interpretation of the Constitution, by which all rights not specifically delegated to the federal government belong to the states."
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl002",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept",
-      "http://www.wikidata.org/entity/Q106632462"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@value": "http://www.wikidata.org/entity/Q107170506"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "eng",
-        "@value": "\n            Agricultural exhibition newspapers\n        "
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#related": [
-      {
-        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl031"
-      },
-      {
-        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl083"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#scopeNote": [
-      {
-        "@value": "Use for newspapers which report on competitive exhibitions of farm products, livestock, baked goods, etc. with prizes for excellence, often combined with carnival-like entertainment, and held annually by states, counties, etc."
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl064",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept",
-      "http://www.wikidata.org/entity/Q106632462"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@value": "http://www.wikidata.org/entity/Q106676186"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "eng",
-        "@value": "\n            Mission newspapers\n        "
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#scopeNote": [
-      {
-        "@value": "Use for newspapers produced for local or national Evangelical or missionary audiences. May be published by a church or non-denominational group."
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl083",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept",
-      "http://www.wikidata.org/entity/Q106632462"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@value": "http://www.wikidata.org/entity/Q107182208"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "eng",
-        "@value": "\n            State fair newspapers\n        "
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#related": [
-      {
-        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl002"
-      },
-      {
-        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl031"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#scopeNote": [
-      {
-        "@value": "Use for newspapers of annual state agricultural exhibitions."
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl040",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept",
-      "http://www.wikidata.org/entity/Q106632462"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@value": "http://www.wikidata.org/entity/Q107236883"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "eng",
-        "@value": "\n            Ghost town newspapers\n        "
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#scopeNote": [
-      {
-        "@value": "Use for newspapers published in towns which are now abandoned."
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl028",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept",
-      "http://www.wikidata.org/entity/Q106632462"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@value": "http://www.wikidata.org/entity/Q107181559"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "eng",
-        "@value": "\n            Company town newspapers\n        "
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#scopeNote": [
-      {
-        "@value": "Use for newspapers published for towns where one main company employs most of the community."
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl010",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept",
-      "http://www.wikidata.org/entity/Q106632462"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@value": "http://www.wikidata.org/entity/Q107171980"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "eng",
-        "@value": "\n            Anti-fascist newspapers\n        "
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl027",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept",
-      "http://www.wikidata.org/entity/Q106632462"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@value": ""
-      },
-      {
-        "@value": "http://www.wikidata.org/entity/Q106651444"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#altLabel": [
-      {
-        "@value": "Neighborhood newspapers"
-      },
-      {
-        "@value": "Suburban newspapers"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#closeMatch": [
-      {
-        "@value": "http://id.loc.gov/authorities/subjects/sh85029253"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "eng",
-        "@value": "\n            Community newspapers\n        "
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#scopeNote": [
-      {
-        "@value": "Use for local newspapers published for a particular neighborhood within a city or county jurisdiction."
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl063",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept",
-      "http://www.wikidata.org/entity/Q106632462"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@value": "http://www.wikidata.org/entity/Q106668702"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#broader": [
-      {
-        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl046"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "eng",
-        "@value": "\n            Mining newspapers\n        "
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl118",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept",
-      "http://www.wikidata.org/entity/Q106632462"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@value": "http://www.wikidata.org/entity/Q107182376"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#broader": [
-      {
-        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl065"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "eng",
-        "@value": "\n            Blackfoot newspapers\n        "
+        "@value": "Use for newspapers advocating abstinence from the use of alcohol or prohibition by law of the sale of or manufacture of alcohol."
       }
     ]
   },
@@ -796,92 +574,81 @@
     ]
   },
   {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl110",
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl072",
     "@type": [
       "http://www.w3.org/2004/02/skos/core#Concept",
       "http://www.wikidata.org/entity/Q106632462"
     ],
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@value": "http://www.wikidata.org/entity/Q107236680"
+        "@value": "http://www.wikidata.org/entity/Q107178453"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@value": "Slavery newspapers"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl078"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "eng",
-        "@value": "\n            Democratic Party newspapers\n        "
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl058",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept",
-      "http://www.wikidata.org/entity/Q106632462"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@value": "http://www.wikidata.org/entity/Q106668471"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "eng",
-        "@value": "\n            Marxist newspapers\n        "
+        "@value": "\n            Pro-slavery newspapers\n        "
       }
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl026"
-      },
-      {
-        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl081"
+        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl014"
       }
     ]
   },
   {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl041",
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl023",
     "@type": [
       "http://www.w3.org/2004/02/skos/core#Concept",
       "http://www.wikidata.org/entity/Q106632462"
     ],
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@value": "http://www.wikidata.org/entity/Q107236916"
+        "@value": "http://www.wikidata.org/entity/Q107183126"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl051"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "eng",
-        "@value": "\n            Government newspapers\n        "
+        "@value": "\n            Civil service newspapers\n        "
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl097",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept",
+      "http://www.wikidata.org/entity/Q106632462"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q107258724"
       }
     ],
-    "http://www.w3.org/2004/02/skos/core#related": [
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
-        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl039"
+        "@language": "eng",
+        "@value": "\n            Utopian newspapers\n        "
       }
     ],
     "http://www.w3.org/2004/02/skos/core#scopeNote": [
       {
-        "@value": "Use for newspapers published by government organizations, but not by official publishers, e.g., Native American newspapers published by the Bureau of Indian Affairs."
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl047",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept",
-      "http://www.wikidata.org/entity/Q106632462"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@value": "http://www.wikidata.org/entity/Q107236966"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "eng",
-        "@value": "\n            Japanese American evacuation and relocation camp newspapers\n        "
+        "@value": "Use for newspapers associated with he expression of visionary or ideal schemes for the perfection of social or political conditions."
       }
     ]
   },
@@ -929,321 +696,67 @@
     ]
   },
   {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl115",
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl009",
     "@type": [
       "http://www.w3.org/2004/02/skos/core#Concept",
       "http://www.wikidata.org/entity/Q106632462"
     ],
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@value": "http://www.wikidata.org/entity/Q107259317"
+        "@value": "http://www.wikidata.org/entity/Q106651150"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "eng",
-        "@value": "\n            Non-denominational newspapers\n        "
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl081",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept",
-      "http://www.wikidata.org/entity/Q106632462"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@value": "http://www.wikidata.org/entity/Q106687570"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "eng",
-        "@value": "\n            Socialist newspapers\n        "
+        "@value": "\n            Anti-communist newspapers\n        "
       }
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
         "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl026"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl087",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept",
+      "http://www.wikidata.org/entity/Q106632462"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@value": "http://id.worldcat.org/fast/1135965"
       },
       {
-        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl058"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl105",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Collection"
-    ],
-    "http://www.w3.org/2004/02/skos/core#note": [
-      {
-        "@value": "descriptors that identify tribal community or communities for whom the newspaper is published, e.g., Cheyenne newspapers, Lummi newspapers. Assign also the descriptor Native American newspapers."
+        "@value": "http://www.wikidata.org/entity/Q738377"
       }
     ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
       {
-        "@language": "eng",
-        "@value": "\n            Tribal newspapers\n        "
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl099",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept",
-      "http://www.wikidata.org/entity/Q106632462"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@value": "http://www.wikidata.org/entity/Q106652977"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "eng",
-        "@value": "\n            Women's newspapers\n        "
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#related": [
-      {
-        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl034"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#scopeNote": [
-      {
-        "@value": "Use for newspapers whose intended audience is women."
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl097",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept",
-      "http://www.wikidata.org/entity/Q106632462"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@value": "http://www.wikidata.org/entity/Q107258724"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "eng",
-        "@value": "\n            Utopian newspapers\n        "
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#scopeNote": [
-      {
-        "@value": "Use for newspapers associated with he expression of visionary or ideal schemes for the perfection of social or political conditions."
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl076",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept",
-      "http://www.wikidata.org/entity/Q106632462"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@value": "http://www.wikidata.org/entity/Q107170468"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#altLabel": [
-      {
-        "@value": "Retiree newspapers"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "eng",
-        "@value": "\n            Retirees' newspapers\n        "
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl096",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept",
-      "http://www.wikidata.org/entity/Q106632462"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@value": "http://www.wikidata.org/entity/Q107258714"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "eng",
-        "@value": "\n            Unemployment newspapers\n        "
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#related": [
-      {
-        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl051"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl102",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Collection"
-    ],
-    "http://www.w3.org/2004/02/skos/core#note": [
-      {
-        "@value": "Use specific descriptors, e.g., Jewish newspapers, Gay newspapers, etc."
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "eng",
-        "@value": "\n            Minority newspapers\n        "
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl094",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept",
-      "http://www.wikidata.org/entity/Q106632462"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@value": "http://www.wikidata.org/entity/Q106687639"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#altLabel": [
-      {
-        "@value": "Union newspapers"
+        "@value": "http://id.loc.gov/authorities/subjects/sh85129277"
       },
       {
-        "@value": "Unionist newspapers"
+        "@value": "http://id.loc.gov/authorities/childrensSubjects/sj2002006650"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl025"
       },
       {
-        "@value": "Trade unionist newspapers"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#broader": [
-      {
-        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl051"
+        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl043"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "eng",
-        "@value": "\n            Trade-union newspapers\n        "
+        "@value": "\n            Student newspapers\n        "
       }
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl086"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl034",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept",
-      "http://www.wikidata.org/entity/Q106632462"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@value": "http://www.wikidata.org/entity/Q106652971"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "eng",
-        "@value": "\n            Feminist newspapers\n        "
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#related": [
-      {
-        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl099"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#scopeNote": [
-      {
-        "@value": "Use for newspapers advocating social and political rights of women equal to men."
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl112",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept",
-      "http://www.wikidata.org/entity/Q106632462"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@value": "http://www.wikidata.org/entity/Q106671613"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "eng",
-        "@value": "\n            Whig Party newspapers\n        "
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl054",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept",
-      "http://www.wikidata.org/entity/Q106632462"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@value": "http://www.wikidata.org/entity/Q106668420"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "eng",
-        "@value": "\n            Literary newspapers\n        "
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl055",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept",
-      "http://www.wikidata.org/entity/Q106632462"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@value": "http://www.wikidata.org/entity/Q107181855"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#broader": [
-      {
-        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl046"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "eng",
-        "@value": "\n            Lumbering newspapers\n        "
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl066",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept",
-      "http://www.wikidata.org/entity/Q106632462"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@value": "http://www.wikidata.org/entity/Q106671524"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "eng",
-        "@value": "\n            Non-partisan newspapers\n        "
+        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl077"
       }
     ]
   },
@@ -1271,43 +784,53 @@
     ]
   },
   {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl070",
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl076",
     "@type": [
       "http://www.w3.org/2004/02/skos/core#Concept",
       "http://www.wikidata.org/entity/Q106632462"
     ],
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@value": "http://www.wikidata.org/entity/Q106677807"
+        "@value": "http://www.wikidata.org/entity/Q107170468"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@value": "Retiree newspapers"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "eng",
-        "@value": "\n            Propaganda newspapers\n        "
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#scopeNote": [
-      {
-        "@value": "Use for newspapers produced by a group or movement organized for spreading a particular doctrine or system of principles."
+        "@value": "\n            Retirees' newspapers\n        "
       }
     ]
   },
   {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl107",
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl057",
     "@type": [
       "http://www.w3.org/2004/02/skos/core#Concept",
       "http://www.wikidata.org/entity/Q106632462"
     ],
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@value": "http://www.wikidata.org/entity/Q107183151"
+        "@value": "http://www.wikidata.org/entity/Q106635276"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl046"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "eng",
-        "@value": "\n            Conservative newspapers\n        "
+        "@value": "\n            Maritime newspapers\n        "
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl079"
       }
     ]
   },
@@ -1340,253 +863,20 @@
     ]
   },
   {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl036",
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl024",
     "@type": [
       "http://www.w3.org/2004/02/skos/core#Concept",
       "http://www.wikidata.org/entity/Q106632462"
     ],
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@value": "http://id.worldcat.org/fast/933854"
-      },
-      {
-        "@value": "http://www.wikidata.org/entity/Q142043"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#altLabel": [
-      {
-        "@value": "Free distribution newspapers"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#closeMatch": [
-      {
-        "@value": "http://id.loc.gov/authorities/subjects/sh86002473"
+        "@value": "http://www.wikidata.org/entity/Q107183138"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "eng",
-        "@value": "\n            Free circulation newspapers\n        "
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl032",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept",
-      "http://www.wikidata.org/entity/Q106632462"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@value": "http://www.wikidata.org/entity/Q106652786"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#altLabel": [
-      {
-        "@value": "Popular entertainment newspapers"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "eng",
-        "@value": "\n            Entertainment newspapers\n        "
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl045",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept",
-      "http://www.wikidata.org/entity/Q106632462"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@value": "http://www.wikidata.org/entity/Q106664450"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#broader": [
-      {
-        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl059"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "eng",
-        "@value": "\n            Hospital newspapers\n        "
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl015",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept",
-      "http://www.wikidata.org/entity/Q106632462"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@value": "http://www.wikidata.org/entity/Q106651333"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "eng",
-        "@value": "\n            Art newspapers\n        "
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#scopeNote": [
-      {
-        "@value": "Use for newspapers covering news about the fine arts."
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl072",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept",
-      "http://www.wikidata.org/entity/Q106632462"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@value": "http://www.wikidata.org/entity/Q107178453"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#altLabel": [
-      {
-        "@value": "Slavery newspapers"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#narrower": [
-      {
-        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl078"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "eng",
-        "@value": "\n            Pro-slavery newspapers\n        "
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#related": [
-      {
-        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl014"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl061",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept",
-      "http://www.wikidata.org/entity/Q106632462"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@value": "http://www.wikidata.org/entity/Q107181979"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "eng",
-        "@value": "\n            Migrant labor camp newspapers\n        "
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl114",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept",
-      "http://www.wikidata.org/entity/Q106632462"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@value": "http://www.wikidata.org/entity/Q106678098"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "eng",
-        "@value": "\n            Catholic newspapers\n        "
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl117",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept",
-      "http://www.wikidata.org/entity/Q106632462"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@value": "http://www.wikidata.org/entity/Q107178411"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#broader": [
-      {
-        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl065"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "eng",
-        "@value": "\n            Lummi newspapers\n        "
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl042",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept",
-      "http://www.wikidata.org/entity/Q106632462"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@value": "http://www.wikidata.org/entity/Q107236603"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#altLabel": [
-      {
-        "@value": "Disabled newspapers"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "eng",
-        "@value": "\n            Handicapped persons' newspapers\n        "
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#scopeNote": [
-      {
-        "@value": "Use for newspapers published for and about the disabled."
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl051",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept",
-      "http://www.wikidata.org/entity/Q106632462"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@value": "http://www.wikidata.org/entity/Q106668248"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#narrower": [
-      {
-        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl023"
-      },
-      {
-        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl094"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "eng",
-        "@value": "\n            Labor newspapers\n        "
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#related": [
-      {
-        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl096"
+        "@value": "\n            Civilian Conservation Corps newspapers\n        "
       }
     ]
   },
@@ -1625,7 +915,7 @@
     ],
     "http://purl.org/dc/terms/format": [
       {
-        "@id": "http://www.w3.org/ns/formats/RDF_XML"
+        "@id": "http://www.w3.org/ns/formats/JSON-LD"
       }
     ],
     "http://purl.org/dc/terms/hasFormat": [
@@ -1677,61 +967,478 @@
         "@id": "http://www.wikidata.org/entity/Q106632466"
       }
     ],
-    "https://schema.org/additionalType": [
+    "https://schema.org/disambiguatingDescription": [
       {
         "@language": "en",
-        "@value": "Dataset"
+        "@value": "SKOS Concept Scheme"
       }
     ],
     "https://schema.org/version": [
       {
-        "@value": "1-1-1"
+        "@value": "1-1-2"
       }
     ]
   },
   {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl078",
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl047",
     "@type": [
       "http://www.w3.org/2004/02/skos/core#Concept",
       "http://www.wikidata.org/entity/Q106632462"
     ],
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@value": "http://www.wikidata.org/entity/Q107179479"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#broader": [
-      {
-        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl072"
+        "@value": "http://www.wikidata.org/entity/Q107236966"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "eng",
-        "@value": "\n            Secession newspapers\n        "
+        "@value": "\n            Japanese American evacuation and relocation camp newspapers\n        "
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl099",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept",
+      "http://www.wikidata.org/entity/Q106632462"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q106652977"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            Women's newspapers\n        "
       }
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl084"
+        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl034"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@value": "Use for newspapers whose intended audience is women."
       }
     ]
   },
   {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl090",
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl049",
     "@type": [
       "http://www.w3.org/2004/02/skos/core#Concept",
       "http://www.wikidata.org/entity/Q106632462"
     ],
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@value": "http://www.wikidata.org/entity/Q106650895"
+        "@value": "http://id.worldcat.org/fast/982872"
+      },
+      {
+        "@value": "http://www.wikidata.org/entity/Q106664582"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@value": "http://id.loc.gov/authorities/subjects/sh85070310"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "eng",
-        "@value": "\n            Syndicalist newspapers\n        "
+        "@value": "\n            Jewish newspapers\n        "
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl108",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept",
+      "http://www.wikidata.org/entity/Q106632462"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q106668646"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl062"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            Military newspapers\n        "
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl079",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept",
+      "http://www.wikidata.org/entity/Q106632462"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@value": "http://id.worldcat.org/fast/1116186"
+      },
+      {
+        "@value": "http://www.wikidata.org/entity/Q106687540"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@value": "http://id.loc.gov/authorities/subjects/sh88000898"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            Ship newspapers\n        "
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl057"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl074",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept",
+      "http://www.wikidata.org/entity/Q106632462"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q107170485"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            Referendum newspapers\n        "
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@value": "Use for newspapers of limited duration established and printed in support of local or state political issues."
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl096",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept",
+      "http://www.wikidata.org/entity/Q106632462"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q107258714"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            Unemployment newspapers\n        "
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl051"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl077",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept",
+      "http://www.wikidata.org/entity/Q106632462"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@value": "http://id.worldcat.org/fast/1135965"
+      },
+      {
+        "@value": "http://www.wikidata.org/entity/Q20850562"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@value": "http://id.loc.gov/authorities/subjects/sh85129277"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            School newspapers\n        "
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl087"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@value": "Use for newspapers created by schools, but generally not by the student body, e.g., Indian school newspapers."
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl055",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept",
+      "http://www.wikidata.org/entity/Q106632462"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q107181855"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl046"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            Lumbering newspapers\n        "
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl082",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept",
+      "http://www.wikidata.org/entity/Q106632462"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q11313190"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            Sports newspapers\n        "
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl111",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept",
+      "http://www.wikidata.org/entity/Q106632462"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q107259292"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            Republican Party newspapers\n        "
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl088",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept",
+      "http://www.wikidata.org/entity/Q106632462"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q106650857"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            Suffrage newspapers\n        "
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl091",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept",
+      "http://www.wikidata.org/entity/Q106632462"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@value": "http://vocab.getty.edu/aat/300404424"
+      },
+      {
+        "@value": "http://id.worldcat.org/fast/1141790"
+      },
+      {
+        "@value": "http://www.wikidata.org/entity/Q106650967"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@value": "http://id.loc.gov/authorities/subjects/sh85131819"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            Tabloid newspapers\n        "
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@value": "Use for newspapers characterized by sensationalism, usually of a small size and presenting news in a concise form."
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl056",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept",
+      "http://www.wikidata.org/entity/Q106632462"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q107181871"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            Manuscript newspapers\n        "
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@value": "Use for newspapers produced in long hand script."
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl114",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept",
+      "http://www.wikidata.org/entity/Q106632462"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q106678098"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            Catholic newspapers\n        "
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl116",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept",
+      "http://www.wikidata.org/entity/Q106632462"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q107182467"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl065"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            Cheyenne newspapers\n        "
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl042",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept",
+      "http://www.wikidata.org/entity/Q106632462"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q107236603"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@value": "Disabled newspapers"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            Handicapped persons' newspapers\n        "
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@value": "Use for newspapers published for and about the disabled."
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl081",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept",
+      "http://www.wikidata.org/entity/Q106632462"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q106687570"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            Socialist newspapers\n        "
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl026"
+      },
+      {
+        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl058"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl012",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept",
+      "http://www.wikidata.org/entity/Q106632462"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q106676417"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            Anti-prohibition newspapers\n        "
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl069"
+      },
+      {
+        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl093"
       }
     ]
   },
@@ -1754,59 +1461,107 @@
     ]
   },
   {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl095",
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl083",
     "@type": [
       "http://www.w3.org/2004/02/skos/core#Concept",
       "http://www.wikidata.org/entity/Q106632462"
     ],
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@value": "http://id.worldcat.org/fast/1160953"
-      },
-      {
-        "@value": "http://id.loc.gov/vocabulary/graphicMaterials/tgm011198"
-      },
-      {
-        "@value": "http://www.wikidata.org/entity/Q4736543"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#altLabel": [
-      {
-        "@value": "Alternative newspapers"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#closeMatch": [
-      {
-        "@value": "http://id.loc.gov/authorities/subjects/sh96010278"
+        "@value": "http://www.wikidata.org/entity/Q107182208"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "eng",
-        "@value": "\n            Underground newspapers\n        "
+        "@value": "\n            State fair newspapers\n        "
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl002"
+      },
+      {
+        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl031"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#scopeNote": [
       {
-        "@value": "Use for newspapers published or produced by political or social radicals or nonconformists."
+        "@value": "Use for newspapers of annual state agricultural exhibitions."
       }
     ]
   },
   {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl120",
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl018",
     "@type": [
       "http://www.w3.org/2004/02/skos/core#Concept",
       "http://www.wikidata.org/entity/Q106632462"
     ],
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@value": "http://www.wikidata.org/entity/Q107183122"
+        "@value": "http://www.wikidata.org/entity/Q106651372"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@value": "Commercial newspapers"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "eng",
-        "@value": "\n            Chinese Canadian newspapers\n        "
+        "@value": "\n            Business and financial newspapers\n        "
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl046"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@value": "Use for newspapers which feature general news and which focus on specific topics such as insurance, investments, marketing, etc."
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl110",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept",
+      "http://www.wikidata.org/entity/Q106632462"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q107236680"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            Democratic Party newspapers\n        "
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl098",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept",
+      "http://www.wikidata.org/entity/Q106632462"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q106687653"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@value": "War veterans' newspapers"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            Veterans' newspapers\n        "
       }
     ]
   },
@@ -1837,51 +1592,287 @@
     ]
   },
   {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl035",
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl036",
     "@type": [
       "http://www.w3.org/2004/02/skos/core#Concept",
       "http://www.wikidata.org/entity/Q106632462"
     ],
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@value": "http://www.wikidata.org/entity/Q107236776"
+        "@value": "http://id.worldcat.org/fast/933854"
+      },
+      {
+        "@value": "http://www.wikidata.org/entity/Q142043"
       }
     ],
-    "http://www.w3.org/2004/02/skos/core#broader": [
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
       {
-        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl046"
+        "@value": "Free distribution newspapers"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@value": "http://id.loc.gov/authorities/subjects/sh86002473"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "eng",
-        "@value": "\n            Fisheries newspapers\n        "
+        "@value": "\n            Free circulation newspapers\n        "
       }
     ]
   },
   {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl012",
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl090",
     "@type": [
       "http://www.w3.org/2004/02/skos/core#Concept",
       "http://www.wikidata.org/entity/Q106632462"
     ],
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@value": "http://www.wikidata.org/entity/Q106676417"
+        "@value": "http://www.wikidata.org/entity/Q106650895"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "eng",
-        "@value": "\n            Anti-prohibition newspapers\n        "
+        "@value": "\n            Syndicalist newspapers\n        "
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl080",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept",
+      "http://www.wikidata.org/entity/Q106632462"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q107181454"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@value": "Shopper's guides"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            Shopping guides\n        "
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@value": "Use for local newspapers which are primarily advertising media but which include substantive local news items and articles."
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl092",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept",
+      "http://www.wikidata.org/entity/Q106632462"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q107258644"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            Tax reform newspapers\n        "
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@value": "Use for newspapers advocating tax reform."
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl002",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept",
+      "http://www.wikidata.org/entity/Q106632462"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q107170506"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            Agricultural exhibition newspapers\n        "
       }
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl069"
+        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl031"
       },
       {
-        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl093"
+        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl083"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@value": "Use for newspapers which report on competitive exhibitions of farm products, livestock, baked goods, etc. with prizes for excellence, often combined with carnival-like entertainment, and held annually by states, counties, etc."
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl113",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept",
+      "http://www.wikidata.org/entity/Q106632462"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q106678195"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            Baptist newspapers\n        "
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl058",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept",
+      "http://www.wikidata.org/entity/Q106632462"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q106668471"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            Marxist newspapers\n        "
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl026"
+      },
+      {
+        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl081"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl025",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept",
+      "http://www.wikidata.org/entity/Q106632462"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@value": "http://id.worldcat.org/fast/867966"
+      },
+      {
+        "@value": "http://www.wikidata.org/entity/Q106162750"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl087"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@value": "http://id.loc.gov/authorities/subjects/sh85028351"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            College student newspapers\n        "
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@value": "Use for newspapers written by college students about their schools, may include local, national and world news."
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl027",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept",
+      "http://www.wikidata.org/entity/Q106632462"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@value": ""
+      },
+      {
+        "@value": "http://www.wikidata.org/entity/Q106651444"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@value": "Neighborhood newspapers"
+      },
+      {
+        "@value": "Suburban newspapers"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@value": "http://id.loc.gov/authorities/subjects/sh85029253"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            Community newspapers\n        "
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@value": "Use for local newspapers published for a particular neighborhood within a city or county jurisdiction."
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl066",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept",
+      "http://www.wikidata.org/entity/Q106632462"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q106671524"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            Non-partisan newspapers\n        "
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl100",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Collection"
+    ],
+    "http://www.w3.org/2004/02/skos/core#note": [
+      {
+        "@value": "Use specific two-term descriptors that identify the ethnicity of the readership, e.g., African American newspapers, Japanese American newspapers, Chinese Canadian newspapers, etc. One term applies to the readership of the newspaper who identify with a particular ethnicity  (e.g., a publication produced by a Punjabi community would receive the term \"Punjabi\" rather than \"Pakistani\" or \"East Indian\"). Another term applies to the larger culture in which the group resides (e.g., American, Canadian)."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            Ethnic newspapers\n        "
       }
     ]
   },
@@ -1914,102 +1905,194 @@
     ]
   },
   {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl098",
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl068",
     "@type": [
       "http://www.w3.org/2004/02/skos/core#Concept",
       "http://www.wikidata.org/entity/Q106632462"
     ],
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@value": "http://www.wikidata.org/entity/Q106687653"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#altLabel": [
-      {
-        "@value": "War veterans' newspapers"
+        "@value": "http://www.wikidata.org/entity/Q106676147"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "eng",
-        "@value": "\n            Veterans' newspapers\n        "
+        "@value": "\n            Prison newspapers\n        "
       }
     ]
   },
   {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl111",
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl050",
     "@type": [
       "http://www.w3.org/2004/02/skos/core#Concept",
       "http://www.wikidata.org/entity/Q106632462"
     ],
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@value": "http://www.wikidata.org/entity/Q107259292"
+        "@value": "http://www.wikidata.org/entity/Q107237013"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "eng",
-        "@value": "\n            Republican Party newspapers\n        "
+        "@value": "\n            Ku Klux Klan newspapers\n        "
       }
     ]
   },
   {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl057",
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl034",
     "@type": [
       "http://www.w3.org/2004/02/skos/core#Concept",
       "http://www.wikidata.org/entity/Q106632462"
     ],
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@value": "http://www.wikidata.org/entity/Q106635276"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#broader": [
-      {
-        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl046"
+        "@value": "http://www.wikidata.org/entity/Q106652971"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "eng",
-        "@value": "\n            Maritime newspapers\n        "
+        "@value": "\n            Feminist newspapers\n        "
       }
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl079"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl093",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept",
-      "http://www.wikidata.org/entity/Q106632462"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@value": "http://www.wikidata.org/entity/Q106687644"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "eng",
-        "@value": "\n            Temperance newspapers\n        "
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#related": [
-      {
-        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl069"
-      },
-      {
-        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl012"
+        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl099"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#scopeNote": [
       {
-        "@value": "Use for newspapers advocating abstinence from the use of alcohol or prohibition by law of the sale of or manufacture of alcohol."
+        "@value": "Use for newspapers advocating social and political rights of women equal to men."
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl085",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept",
+      "http://www.wikidata.org/entity/Q106632462"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@value": "http://id.worldcat.org/fast/1134709"
+      },
+      {
+        "@value": "http://www.wikidata.org/entity/Q2006125"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@value": "Homeless newspapers"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@value": "http://id.loc.gov/authorities/subjects/sh2001000052"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            Street newspapers\n        "
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl041",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept",
+      "http://www.wikidata.org/entity/Q106632462"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q107236916"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            Government newspapers\n        "
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl039"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@value": "Use for newspapers published by government organizations, but not by official publishers, e.g., Native American newspapers published by the Bureau of Indian Affairs."
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl026",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept",
+      "http://www.wikidata.org/entity/Q106632462"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q106651430"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            Communist newspapers\n        "
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl009"
+      },
+      {
+        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl058"
+      },
+      {
+        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl081"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl059",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept",
+      "http://www.wikidata.org/entity/Q106632462"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q106668535"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl045"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            Medical newspapers\n        "
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl102",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Collection"
+    ],
+    "http://www.w3.org/2004/02/skos/core#note": [
+      {
+        "@value": "Use specific descriptors, e.g., Jewish newspapers, Gay newspapers, etc."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            Minority newspapers\n        "
       }
     ]
   },
@@ -2058,399 +2141,19 @@
     ]
   },
   {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl024",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept",
-      "http://www.wikidata.org/entity/Q106632462"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@value": "http://www.wikidata.org/entity/Q107183138"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "eng",
-        "@value": "\n            Civilian Conservation Corps newspapers\n        "
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl062",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept",
-      "http://www.wikidata.org/entity/Q106632462"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@value": "http://www.wikidata.org/entity/Q107182185"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#altLabel": [
-      {
-        "@value": "Military post newspapers"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#broader": [
-      {
-        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl108"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "eng",
-        "@value": "\n            Military base newspapers\n        "
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl043",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept",
-      "http://www.wikidata.org/entity/Q106632462"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@value": "http://id.worldcat.org/fast/1135965"
-      },
-      {
-        "@value": "http://www.wikidata.org/entity/Q106661426"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#broader": [
-      {
-        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl087"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#closeMatch": [
-      {
-        "@value": "http://id.loc.gov/authorities/subjects/sh85129277"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "eng",
-        "@value": "\n            High school student newspapers\n        "
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl023",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept",
-      "http://www.wikidata.org/entity/Q106632462"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@value": "http://www.wikidata.org/entity/Q107183126"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#broader": [
-      {
-        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl051"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "eng",
-        "@value": "\n            Civil service newspapers\n        "
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl100",
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl105",
     "@type": [
       "http://www.w3.org/2004/02/skos/core#Collection"
     ],
     "http://www.w3.org/2004/02/skos/core#note": [
       {
-        "@value": "Use specific two-term descriptors that identify the ethnicity of the readership, e.g., African American newspapers, Japanese American newspapers, Chinese Canadian newspapers, etc. One term applies to the readership of the newspaper who identify with a particular ethnicity  (e.g., a publication produced by a Punjabi community would receive the term \"Punjabi\" rather than \"Pakistani\" or \"East Indian\"). Another term applies to the larger culture in which the group resides (e.g., American, Canadian)."
+        "@value": "descriptors that identify tribal community or communities for whom the newspaper is published, e.g., Cheyenne newspapers, Lummi newspapers. Assign also the descriptor Native American newspapers."
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "eng",
-        "@value": "\n            Ethnic newspapers\n        "
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl021",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept",
-      "http://www.wikidata.org/entity/Q106632462"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@value": "http://id.worldcat.org/fast/857746"
-      },
-      {
-        "@value": "http://www.wikidata.org/entity/Q106651395"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#closeMatch": [
-      {
-        "@value": "http://id.loc.gov/authorities/subjects/sh85024242"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "eng",
-        "@value": "\n            Chinese American newspapers\n        "
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl068",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept",
-      "http://www.wikidata.org/entity/Q106632462"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@value": "http://www.wikidata.org/entity/Q106676147"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "eng",
-        "@value": "\n            Prison newspapers\n        "
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl050",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept",
-      "http://www.wikidata.org/entity/Q106632462"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@value": "http://www.wikidata.org/entity/Q107237013"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "eng",
-        "@value": "\n            Ku Klux Klan newspapers\n        "
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl013",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept",
-      "http://www.wikidata.org/entity/Q106632462"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@value": "http://www.wikidata.org/entity/Q107171982"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#altLabel": [
-      {
-        "@value": "Anti-clerical newspapers"
-      },
-      {
-        "@value": "Anti-clericalism newspapers"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#narrower": [
-      {
-        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl007"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "eng",
-        "@value": "\n            Anti-religious newspapers\n        "
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#related": [
-      {
-        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl017"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl037",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept",
-      "http://www.wikidata.org/entity/Q106632462"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@value": "http://www.wikidata.org/entity/Q107236849"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#altLabel": [
-      {
-        "@value": "Fraternal newspapers"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "eng",
-        "@value": "\n            Friendly society newspapers\n        "
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#scopeNote": [
-      {
-        "@value": "Use for newspapers produced under the aegis of the Masons, Odd Fellows, et al."
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl069",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept",
-      "http://www.wikidata.org/entity/Q106632462"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@value": "http://www.wikidata.org/entity/Q106676275"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "eng",
-        "@value": "\n            Prohibition newspapers\n        "
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#related": [
-      {
-        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl012"
-      },
-      {
-        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl093"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#scopeNote": [
-      {
-        "@value": "Use for newspapers advocating the legal prevention of the manufacture and sale of alcoholic beverages."
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl029",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept",
-      "http://www.wikidata.org/entity/Q106632462"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@value": "http://www.wikidata.org/entity/Q107183145"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "eng",
-        "@value": "\n            Conference newspapers\n        "
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#scopeNote": [
-      {
-        "@value": "Use for newspapers published usually on a daily basis during annual meetings of major organizations."
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl075",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept",
-      "http://www.wikidata.org/entity/Q106632462"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@value": "http://www.wikidata.org/entity/Q107170444"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "eng",
-        "@value": "\n            Resort newspapers\n        "
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#scopeNote": [
-      {
-        "@value": "Use for local newspapers published for seasonal tourist audiences."
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl113",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept",
-      "http://www.wikidata.org/entity/Q106632462"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@value": "http://www.wikidata.org/entity/Q106678195"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "eng",
-        "@value": "\n            Baptist newspapers\n        "
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl017",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept",
-      "http://www.wikidata.org/entity/Q106632462"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@value": "http://www.wikidata.org/entity/Q106651338"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "eng",
-        "@value": "\n            Atheist newspapers\n        "
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#related": [
-      {
-        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl013"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl025",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept",
-      "http://www.wikidata.org/entity/Q106632462"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@value": "http://id.worldcat.org/fast/867966"
-      },
-      {
-        "@value": "http://www.wikidata.org/entity/Q106162750"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#broader": [
-      {
-        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl087"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#closeMatch": [
-      {
-        "@value": "http://id.loc.gov/authorities/subjects/sh85028351"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "eng",
-        "@value": "\n            College student newspapers\n        "
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#scopeNote": [
-      {
-        "@value": "Use for newspapers written by college students about their schools, may include local, national and world news."
+        "@value": "\n            Tribal newspapers\n        "
       }
     ]
   },
@@ -2479,6 +2182,217 @@
     "http://www.w3.org/2004/02/skos/core#scopeNote": [
       {
         "@value": "Use for newspapers published by children or specifically for children."
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl053",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept",
+      "http://www.wikidata.org/entity/Q106632462"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q106668332"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@value": "Law newspapers"
+      },
+      {
+        "@value": "Legal newspapers"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            Lawyers' newspapers\n        "
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@value": "Use for newspapers produced for and by lawyers."
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl060",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept",
+      "http://www.wikidata.org/entity/Q106632462"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@value": "http://id.worldcat.org/fast/1018997"
+      },
+      {
+        "@value": "http://www.wikidata.org/entity/Q106668608"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@value": "Chicano newspapers"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl044"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@value": "http://id.loc.gov/authorities/subjects/sh89005391"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            Mexican American newspapers\n        "
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl028",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept",
+      "http://www.wikidata.org/entity/Q106632462"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q107181559"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            Company town newspapers\n        "
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@value": "Use for newspapers published for towns where one main company employs most of the community."
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl107",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept",
+      "http://www.wikidata.org/entity/Q106632462"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q107183151"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            Conservative newspapers\n        "
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl094",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept",
+      "http://www.wikidata.org/entity/Q106632462"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q106687639"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@value": "Union newspapers"
+      },
+      {
+        "@value": "Unionist newspapers"
+      },
+      {
+        "@value": "Trade unionist newspapers"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl051"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            Trade-union newspapers\n        "
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl086"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl010",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept",
+      "http://www.wikidata.org/entity/Q106632462"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q107171980"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            Anti-fascist newspapers\n        "
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl075",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept",
+      "http://www.wikidata.org/entity/Q106632462"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q107170444"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            Resort newspapers\n        "
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@value": "Use for local newspapers published for seasonal tourist audiences."
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl035",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept",
+      "http://www.wikidata.org/entity/Q106632462"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q107236776"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl046"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            Fisheries newspapers\n        "
       }
     ]
   },
@@ -2533,53 +2447,97 @@
     ]
   },
   {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl056",
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl117",
     "@type": [
       "http://www.w3.org/2004/02/skos/core#Concept",
       "http://www.wikidata.org/entity/Q106632462"
     ],
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@value": "http://www.wikidata.org/entity/Q107181871"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "eng",
-        "@value": "\n            Manuscript newspapers\n        "
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#scopeNote": [
-      {
-        "@value": "Use for newspapers produced in long hand script."
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl007",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept",
-      "http://www.wikidata.org/entity/Q106632462"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@value": "http://www.wikidata.org/entity/Q106651148"
+        "@value": "http://www.wikidata.org/entity/Q107178411"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#broader": [
       {
-        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl013"
+        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl065"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "eng",
-        "@value": "\n            Anti-Catholic newspapers\n        "
+        "@value": "\n            Lummi newspapers\n        "
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl064",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept",
+      "http://www.wikidata.org/entity/Q106632462"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q106676186"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            Mission newspapers\n        "
       }
     ],
     "http://www.w3.org/2004/02/skos/core#scopeNote": [
       {
-        "@value": "Use for newspapers which regularly feature articles which speak out against Catholicism."
+        "@value": "Use for newspapers produced for local or national Evangelical or missionary audiences. May be published by a church or non-denominational group."
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl115",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept",
+      "http://www.wikidata.org/entity/Q106632462"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q107259317"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            Non-denominational newspapers\n        "
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl051",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept",
+      "http://www.wikidata.org/entity/Q106632462"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q106668248"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl023"
+      },
+      {
+        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl094"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            Labor newspapers\n        "
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl096"
       }
     ]
   },
@@ -2603,454 +2561,6 @@
     "http://www.w3.org/2004/02/skos/core#scopeNote": [
       {
         "@value": "Use for newspapers which satirize current events and people."
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl092",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept",
-      "http://www.wikidata.org/entity/Q106632462"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@value": "http://www.wikidata.org/entity/Q107258644"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "eng",
-        "@value": "\n            Tax reform newspapers\n        "
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#scopeNote": [
-      {
-        "@value": "Use for newspapers advocating tax reform."
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl119",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept",
-      "http://www.wikidata.org/entity/Q106632462"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@value": "http://www.wikidata.org/entity/Q107171988"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#broader": [
-      {
-        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl065"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "eng",
-        "@value": "\n            Yakama newspapers\n        "
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl065",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept",
-      "http://www.wikidata.org/entity/Q106632462"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@value": "http://id.worldcat.org/fast/969154"
-      },
-      {
-        "@value": "http://www.wikidata.org/entity/Q107171989"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#altLabel": [
-      {
-        "@value": "American Indian newspapers"
-      },
-      {
-        "@value": "Indian newspapers"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#closeMatch": [
-      {
-        "@value": "http://id.loc.gov/authorities/subjects/sh85064983"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#narrower": [
-      {
-        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl004"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#note": [
-      {
-        "@value": "Also apply other genre or subject headings for particular tribes and geographic locations if appropriate, e.g., Lummi newspapers;  Blackfoot newspapers;  Yakama newspapers."
-      },
-      {
-        "@value": "Note under Tribal newspapers"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "eng",
-        "@value": "\n            Native American newspapers\n        "
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl079",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept",
-      "http://www.wikidata.org/entity/Q106632462"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@value": "http://id.worldcat.org/fast/1116186"
-      },
-      {
-        "@value": "http://www.wikidata.org/entity/Q106687540"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#closeMatch": [
-      {
-        "@value": "http://id.loc.gov/authorities/subjects/sh88000898"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "eng",
-        "@value": "\n            Ship newspapers\n        "
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#related": [
-      {
-        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl057"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl018",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept",
-      "http://www.wikidata.org/entity/Q106632462"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@value": "http://www.wikidata.org/entity/Q106651372"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#altLabel": [
-      {
-        "@value": "Commercial newspapers"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "eng",
-        "@value": "\n            Business and financial newspapers\n        "
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#related": [
-      {
-        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl046"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#scopeNote": [
-      {
-        "@value": "Use for newspapers which feature general news and which focus on specific topics such as insurance, investments, marketing, etc."
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl089",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept",
-      "http://www.wikidata.org/entity/Q106632462"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@value": "http://www.wikidata.org/entity/Q107258494"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "eng",
-        "@value": "\n            Summer camp newspapers\n        "
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl001",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept",
-      "http://www.wikidata.org/entity/Q106632462"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@value": "http://id.worldcat.org/fast/799278"
-      },
-      {
-        "@value": "http://www.wikidata.org/entity/Q4689686"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#altLabel": [
-      {
-        "@value": "Afro-American newspapers"
-      },
-      {
-        "@value": "Negro newspapers (American)"
-      },
-      {
-        "@value": "Black newspapers (American)"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#closeMatch": [
-      {
-        "@value": "http://id.loc.gov/authorities/subjects/sh85001873"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "eng",
-        "@value": "\n            African American newspapers\n        "
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl085",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept",
-      "http://www.wikidata.org/entity/Q106632462"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@value": "http://id.worldcat.org/fast/1134709"
-      },
-      {
-        "@value": "http://www.wikidata.org/entity/Q2006125"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#altLabel": [
-      {
-        "@value": "Homeless newspapers"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#closeMatch": [
-      {
-        "@value": "http://id.loc.gov/authorities/subjects/sh2001000052"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "eng",
-        "@value": "\n            Street newspapers\n        "
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl103",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Collection"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@value": "http://www.wikidata.org/entity/Q442927"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#note": [
-      {
-        "@value": "Use specific party descriptors, e.g., Democratic Party newspapers, Republican Party newspapers, Whig Party newspapers, etc."
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "eng",
-        "@value": "\n            Political party newspapers\n        "
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl006",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept",
-      "http://www.wikidata.org/entity/Q106632462"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@value": "http://www.wikidata.org/entity/Q106651089"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "eng",
-        "@value": "\n            Anarchist newspapers\n        "
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl053",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept",
-      "http://www.wikidata.org/entity/Q106632462"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@value": "http://www.wikidata.org/entity/Q106668332"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#altLabel": [
-      {
-        "@value": "Law newspapers"
-      },
-      {
-        "@value": "Legal newspapers"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "eng",
-        "@value": "\n            Lawyers' newspapers\n        "
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#scopeNote": [
-      {
-        "@value": "Use for newspapers produced for and by lawyers."
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl088",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept",
-      "http://www.wikidata.org/entity/Q106632462"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@value": "http://www.wikidata.org/entity/Q106650857"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "eng",
-        "@value": "\n            Suffrage newspapers\n        "
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl074",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept",
-      "http://www.wikidata.org/entity/Q106632462"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@value": "http://www.wikidata.org/entity/Q107170485"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "eng",
-        "@value": "\n            Referendum newspapers\n        "
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#scopeNote": [
-      {
-        "@value": "Use for newspapers of limited duration established and printed in support of local or state political issues."
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl046",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept",
-      "http://www.wikidata.org/entity/Q106632462"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@value": "http://www.wikidata.org/entity/Q106635283"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#narrower": [
-      {
-        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl035"
-      },
-      {
-        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl055"
-      },
-      {
-        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl057"
-      },
-      {
-        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl063"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "eng",
-        "@value": "\n            Industry newspapers\n        "
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#related": [
-      {
-        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl018"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#scopeNote": [
-      {
-        "@value": "Use for newspapers about profit-making enterprises that produce or supply goods, services, or sources of income."
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl067",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept",
-      "http://www.wikidata.org/entity/Q106632462"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@value": "http://www.wikidata.org/entity/Q107182322"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#altLabel": [
-      {
-        "@value": "Anti-war newspapers"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "eng",
-        "@value": "\n            Pacifist newspapers\n        "
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl019",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept",
-      "http://www.wikidata.org/entity/Q106632462"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@value": "http://www.wikidata.org/entity/Q107182456"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#altLabel": [
-      {
-        "@value": "Political campaign newspapers"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "eng",
-        "@value": "\n            Campaign newspapers\n        "
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#scopeNote": [
-      {
-        "@value": "Use for newspapers published during a national or state election year which are party affiliated and usually limited to a calendar year."
       }
     ]
   },
@@ -3083,7 +2593,7 @@
     ]
   },
   {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl087",
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl043",
     "@type": [
       "http://www.w3.org/2004/02/skos/core#Concept",
       "http://www.wikidata.org/entity/Q106632462"
@@ -3093,75 +2603,565 @@
         "@value": "http://id.worldcat.org/fast/1135965"
       },
       {
-        "@value": "http://www.wikidata.org/entity/Q738377"
+        "@value": "http://www.wikidata.org/entity/Q106661426"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl087"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#closeMatch": [
       {
         "@value": "http://id.loc.gov/authorities/subjects/sh85129277"
-      },
-      {
-        "@value": "http://id.loc.gov/authorities/childrensSubjects/sj2002006650"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#narrower": [
-      {
-        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl025"
-      },
-      {
-        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl043"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "eng",
-        "@value": "\n            Student newspapers\n        "
+        "@value": "\n            High school student newspapers\n        "
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl006",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept",
+      "http://www.wikidata.org/entity/Q106632462"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q106651089"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            Anarchist newspapers\n        "
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl008",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept",
+      "http://www.wikidata.org/entity/Q106632462"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q107171978"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            Anti-Chinese newspapers\n        "
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl084",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept",
+      "http://www.wikidata.org/entity/Q106632462"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q107208916"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            States' rights newspapers\n        "
       }
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl077"
+        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl078"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@value": "Use for newspapers advocating the strict interpretation of the Constitution, by which all rights not specifically delegated to the federal government belong to the states."
       }
     ]
   },
   {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl108",
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl070",
     "@type": [
       "http://www.w3.org/2004/02/skos/core#Concept",
       "http://www.wikidata.org/entity/Q106632462"
     ],
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@value": "http://www.wikidata.org/entity/Q106668646"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#narrower": [
-      {
-        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl062"
+        "@value": "http://www.wikidata.org/entity/Q106677807"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "eng",
-        "@value": "\n            Military newspapers\n        "
+        "@value": "\n            Propaganda newspapers\n        "
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@value": "Use for newspapers produced by a group or movement organized for spreading a particular doctrine or system of principles."
       }
     ]
   },
   {
-    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl071",
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl062",
     "@type": [
       "http://www.w3.org/2004/02/skos/core#Concept",
       "http://www.wikidata.org/entity/Q106632462"
     ],
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@value": "http://www.wikidata.org/entity/Q106677862"
+        "@value": "http://www.wikidata.org/entity/Q107182185"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@value": "Military post newspapers"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl108"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "eng",
-        "@value": "\n            Pro-life newspapers\n        "
+        "@value": "\n            Military base newspapers\n        "
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl007",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept",
+      "http://www.wikidata.org/entity/Q106632462"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q106651148"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl013"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            Anti-Catholic newspapers\n        "
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@value": "Use for newspapers which regularly feature articles which speak out against Catholicism."
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl029",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept",
+      "http://www.wikidata.org/entity/Q106632462"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q107183145"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            Conference newspapers\n        "
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@value": "Use for newspapers published usually on a daily basis during annual meetings of major organizations."
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl019",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept",
+      "http://www.wikidata.org/entity/Q106632462"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q107182456"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@value": "Political campaign newspapers"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            Campaign newspapers\n        "
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@value": "Use for newspapers published during a national or state election year which are party affiliated and usually limited to a calendar year."
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl014",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept",
+      "http://www.wikidata.org/entity/Q106632462"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q106651322"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@value": "Abolitionist newspapers"
+      },
+      {
+        "@value": "Antislavery newspapers"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            Anti-slavery newspapers\n        "
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl072"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl089",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept",
+      "http://www.wikidata.org/entity/Q106632462"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q107258494"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            Summer camp newspapers\n        "
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl021",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept",
+      "http://www.wikidata.org/entity/Q106632462"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@value": "http://id.worldcat.org/fast/857746"
+      },
+      {
+        "@value": "http://www.wikidata.org/entity/Q106651395"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@value": "http://id.loc.gov/authorities/subjects/sh85024242"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            Chinese American newspapers\n        "
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl037",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept",
+      "http://www.wikidata.org/entity/Q106632462"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q107236849"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@value": "Fraternal newspapers"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            Friendly society newspapers\n        "
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@value": "Use for newspapers produced under the aegis of the Masons, Odd Fellows, et al."
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl016",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept",
+      "http://www.wikidata.org/entity/Q106632462"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@value": "http://id.worldcat.org/fast/818594"
+      },
+      {
+        "@value": "http://www.wikidata.org/entity/Q106651343"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@value": "http://id.loc.gov/authorities/subjects/sh85008641"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            Asian American newspapers\n        "
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl063",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept",
+      "http://www.wikidata.org/entity/Q106632462"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q106668702"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl046"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            Mining newspapers\n        "
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl011",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept",
+      "http://www.wikidata.org/entity/Q106632462"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q106651156"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            Anti-Masonic newspapers\n        "
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl086",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept",
+      "http://www.wikidata.org/entity/Q106632462"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q107208914"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            Strike newspapers\n        "
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl094"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@value": "Use for newspapers associated with labor strikes."
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl032",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept",
+      "http://www.wikidata.org/entity/Q106632462"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q106652786"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@value": "Popular entertainment newspapers"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            Entertainment newspapers\n        "
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl061",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept",
+      "http://www.wikidata.org/entity/Q106632462"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q107181979"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            Migrant labor camp newspapers\n        "
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl078",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept",
+      "http://www.wikidata.org/entity/Q106632462"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q107179479"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl072"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            Secession newspapers\n        "
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@value": "https://doi.org/10.6069/uwlib.55.d.5#ngl084"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl103",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Collection"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q442927"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#note": [
+      {
+        "@value": "Use specific party descriptors, e.g., Democratic Party newspapers, Republican Party newspapers, Whig Party newspapers, etc."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            Political party newspapers\n        "
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl040",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept",
+      "http://www.wikidata.org/entity/Q106632462"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q107236883"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            Ghost town newspapers\n        "
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@value": "Use for newspapers published in towns which are now abandoned."
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl054",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept",
+      "http://www.wikidata.org/entity/Q106632462"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q106668420"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            Literary newspapers\n        "
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.d.5#ngl030",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept",
+      "http://www.wikidata.org/entity/Q106632462"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@value": "http://www.wikidata.org/entity/Q107236569"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "eng",
+        "@value": "\n            Consumer cooperative newspapers\n        "
       }
     ]
   }
