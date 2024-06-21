@@ -12,7 +12,6 @@
     dct:description "Terms used to designate genres of newspapers."@en ;
     dct:format <http://www.w3.org/ns/formats/Turtle> ;
     dct:hasFormat <https://uwlib-cams.github.io/uwlswd_ngl/newspaper_genre_list.html>,
-        <https://uwlib-cams.github.io/uwlswd_ngl/newspaper_genre_list.json>,
         <https://uwlib-cams.github.io/uwlswd_ngl/newspaper_genre_list.jsonld>,
         <https://uwlib-cams.github.io/uwlswd_ngl/newspaper_genre_list.nt>,
         <https://uwlib-cams.github.io/uwlswd_ngl/newspaper_genre_list.rdf>,
@@ -24,7 +23,7 @@
     dct:title "Newspaper Genre List"@en ;
     rdfs:seeAlso <http://www.wikidata.org/entity/Q106632466> ;
     schema:disambiguatingDescription "SKOS Concept Scheme"@en ;
-    schema:version "1-1-2" .
+    schema:version "1-1-3" .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl001> a skos:Concept,
         <http://www.wikidata.org/entity/Q106632462> ;
@@ -36,14 +35,14 @@
     skos:closeMatch "http://id.loc.gov/authorities/subjects/sh85001873" ;
     skos:prefLabel """
             African American newspapers
-        """@eng .
+        """@en .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl002> a skos:Concept,
         <http://www.wikidata.org/entity/Q106632462> ;
     rdfs:seeAlso "http://www.wikidata.org/entity/Q107170506" ;
     skos:prefLabel """
             Agricultural exhibition newspapers
-        """@eng ;
+        """@en ;
     skos:related "https://doi.org/10.6069/uwlib.55.d.5#ngl031",
         "https://doi.org/10.6069/uwlib.55.d.5#ngl083" ;
     skos:scopeNote "Use for newspapers which report on competitive exhibitions of farm products, livestock, baked goods, etc. with prizes for excellence, often combined with carnival-like entertainment, and held annually by states, counties, etc." .
@@ -54,7 +53,7 @@
     skos:altLabel "Farm and agricultural newspapers" ;
     skos:prefLabel """
             Agricultural newspapers
-        """@eng ;
+        """@en ;
     skos:scopeNote "Use for newspapers which feature general news stories and which focus on specific topics such as livestock, animal culture, produce, farm life, etc." .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl004> a skos:Concept,
@@ -66,7 +65,7 @@
     skos:closeMatch "http://id.loc.gov/authorities/subjects/sh2009007147" ;
     skos:prefLabel """
             Alaska Native newspapers
-        """@eng ;
+        """@en ;
     skos:scopeNote "Use for newspapers written by indigenous groups living in Alaska." .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl005> a skos:Concept,
@@ -74,7 +73,7 @@
     rdfs:seeAlso "http://www.wikidata.org/entity/Q107170655" ;
     skos:prefLabel """
             Amateur newspapers
-        """@eng ;
+        """@en ;
     skos:related "https://doi.org/10.6069/uwlib.55.d.5#ngl020" ;
     skos:scopeNote "Use for newspapers written, published and printed by those engaged in these pursuits as a pastime rather than as a profession." .
 
@@ -83,7 +82,7 @@
     rdfs:seeAlso "http://www.wikidata.org/entity/Q106651089" ;
     skos:prefLabel """
             Anarchist newspapers
-        """@eng .
+        """@en .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl007> a skos:Concept,
         <http://www.wikidata.org/entity/Q106632462> ;
@@ -91,7 +90,7 @@
     skos:broader "https://doi.org/10.6069/uwlib.55.d.5#ngl013" ;
     skos:prefLabel """
             Anti-Catholic newspapers
-        """@eng ;
+        """@en ;
     skos:scopeNote "Use for newspapers which regularly feature articles which speak out against Catholicism." .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl008> a skos:Concept,
@@ -99,14 +98,14 @@
     rdfs:seeAlso "http://www.wikidata.org/entity/Q107171978" ;
     skos:prefLabel """
             Anti-Chinese newspapers
-        """@eng .
+        """@en .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl009> a skos:Concept,
         <http://www.wikidata.org/entity/Q106632462> ;
     rdfs:seeAlso "http://www.wikidata.org/entity/Q106651150" ;
     skos:prefLabel """
             Anti-communist newspapers
-        """@eng ;
+        """@en ;
     skos:related "https://doi.org/10.6069/uwlib.55.d.5#ngl026" .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl010> a skos:Concept,
@@ -114,21 +113,21 @@
     rdfs:seeAlso "http://www.wikidata.org/entity/Q107171980" ;
     skos:prefLabel """
             Anti-fascist newspapers
-        """@eng .
+        """@en .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl011> a skos:Concept,
         <http://www.wikidata.org/entity/Q106632462> ;
     rdfs:seeAlso "http://www.wikidata.org/entity/Q106651156" ;
     skos:prefLabel """
             Anti-Masonic newspapers
-        """@eng .
+        """@en .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl012> a skos:Concept,
         <http://www.wikidata.org/entity/Q106632462> ;
     rdfs:seeAlso "http://www.wikidata.org/entity/Q106676417" ;
     skos:prefLabel """
             Anti-prohibition newspapers
-        """@eng ;
+        """@en ;
     skos:related "https://doi.org/10.6069/uwlib.55.d.5#ngl069",
         "https://doi.org/10.6069/uwlib.55.d.5#ngl093" .
 
@@ -140,7 +139,7 @@
     skos:narrower "https://doi.org/10.6069/uwlib.55.d.5#ngl007" ;
     skos:prefLabel """
             Anti-religious newspapers
-        """@eng ;
+        """@en ;
     skos:related "https://doi.org/10.6069/uwlib.55.d.5#ngl017" .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl014> a skos:Concept,
@@ -150,7 +149,7 @@
         "Antislavery newspapers" ;
     skos:prefLabel """
             Anti-slavery newspapers
-        """@eng ;
+        """@en ;
     skos:related "https://doi.org/10.6069/uwlib.55.d.5#ngl072" .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl015> a skos:Concept,
@@ -158,7 +157,7 @@
     rdfs:seeAlso "http://www.wikidata.org/entity/Q106651333" ;
     skos:prefLabel """
             Art newspapers
-        """@eng ;
+        """@en ;
     skos:scopeNote "Use for newspapers covering news about the fine arts." .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl016> a skos:Concept,
@@ -168,14 +167,14 @@
     skos:closeMatch "http://id.loc.gov/authorities/subjects/sh85008641" ;
     skos:prefLabel """
             Asian American newspapers
-        """@eng .
+        """@en .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl017> a skos:Concept,
         <http://www.wikidata.org/entity/Q106632462> ;
     rdfs:seeAlso "http://www.wikidata.org/entity/Q106651338" ;
     skos:prefLabel """
             Atheist newspapers
-        """@eng ;
+        """@en ;
     skos:related "https://doi.org/10.6069/uwlib.55.d.5#ngl013" .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl018> a skos:Concept,
@@ -184,7 +183,7 @@
     skos:altLabel "Commercial newspapers" ;
     skos:prefLabel """
             Business and financial newspapers
-        """@eng ;
+        """@en ;
     skos:related "https://doi.org/10.6069/uwlib.55.d.5#ngl046" ;
     skos:scopeNote "Use for newspapers which feature general news and which focus on specific topics such as insurance, investments, marketing, etc." .
 
@@ -194,7 +193,7 @@
     skos:altLabel "Political campaign newspapers" ;
     skos:prefLabel """
             Campaign newspapers
-        """@eng ;
+        """@en ;
     skos:scopeNote "Use for newspapers published during a national or state election year which are party affiliated and usually limited to a calendar year." .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl020> a skos:Concept,
@@ -202,7 +201,7 @@
     rdfs:seeAlso "http://www.wikidata.org/entity/Q106651387" ;
     skos:prefLabel """
             Children's newspapers
-        """@eng ;
+        """@en ;
     skos:related "https://doi.org/10.6069/uwlib.55.d.5#ngl005" ;
     skos:scopeNote "Use for newspapers published by children or specifically for children." .
 
@@ -213,14 +212,14 @@
     skos:closeMatch "http://id.loc.gov/authorities/subjects/sh85024242" ;
     skos:prefLabel """
             Chinese American newspapers
-        """@eng .
+        """@en .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl022> a skos:Concept,
         <http://www.wikidata.org/entity/Q106632462> ;
     rdfs:seeAlso "http://www.wikidata.org/entity/Q107183119" ;
     skos:prefLabel """
             Civil rights newspapers
-        """@eng .
+        """@en .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl023> a skos:Concept,
         <http://www.wikidata.org/entity/Q106632462> ;
@@ -228,14 +227,14 @@
     skos:broader "https://doi.org/10.6069/uwlib.55.d.5#ngl051" ;
     skos:prefLabel """
             Civil service newspapers
-        """@eng .
+        """@en .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl024> a skos:Concept,
         <http://www.wikidata.org/entity/Q106632462> ;
     rdfs:seeAlso "http://www.wikidata.org/entity/Q107183138" ;
     skos:prefLabel """
             Civilian Conservation Corps newspapers
-        """@eng .
+        """@en .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl025> a skos:Concept,
         <http://www.wikidata.org/entity/Q106632462> ;
@@ -245,7 +244,7 @@
     skos:closeMatch "http://id.loc.gov/authorities/subjects/sh85028351" ;
     skos:prefLabel """
             College student newspapers
-        """@eng ;
+        """@en ;
     skos:scopeNote "Use for newspapers written by college students about their schools, may include local, national and world news." .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl026> a skos:Concept,
@@ -253,7 +252,7 @@
     rdfs:seeAlso "http://www.wikidata.org/entity/Q106651430" ;
     skos:prefLabel """
             Communist newspapers
-        """@eng ;
+        """@en ;
     skos:related "https://doi.org/10.6069/uwlib.55.d.5#ngl009",
         "https://doi.org/10.6069/uwlib.55.d.5#ngl058",
         "https://doi.org/10.6069/uwlib.55.d.5#ngl081" .
@@ -267,7 +266,7 @@
     skos:closeMatch "http://id.loc.gov/authorities/subjects/sh85029253" ;
     skos:prefLabel """
             Community newspapers
-        """@eng ;
+        """@en ;
     skos:scopeNote "Use for local newspapers published for a particular neighborhood within a city or county jurisdiction." .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl028> a skos:Concept,
@@ -275,7 +274,7 @@
     rdfs:seeAlso "http://www.wikidata.org/entity/Q107181559" ;
     skos:prefLabel """
             Company town newspapers
-        """@eng ;
+        """@en ;
     skos:scopeNote "Use for newspapers published for towns where one main company employs most of the community." .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl029> a skos:Concept,
@@ -283,7 +282,7 @@
     rdfs:seeAlso "http://www.wikidata.org/entity/Q107183145" ;
     skos:prefLabel """
             Conference newspapers
-        """@eng ;
+        """@en ;
     skos:scopeNote "Use for newspapers published usually on a daily basis during annual meetings of major organizations." .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl030> a skos:Concept,
@@ -291,14 +290,14 @@
     rdfs:seeAlso "http://www.wikidata.org/entity/Q107236569" ;
     skos:prefLabel """
             Consumer cooperative newspapers
-        """@eng .
+        """@en .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl031> a skos:Concept,
         <http://www.wikidata.org/entity/Q106632462> ;
     rdfs:seeAlso "http://www.wikidata.org/entity/Q107182201" ;
     skos:prefLabel """
             County fair newspapers
-        """@eng ;
+        """@en ;
     skos:related "https://doi.org/10.6069/uwlib.55.d.5#ngl002",
         "https://doi.org/10.6069/uwlib.55.d.5#ngl083" .
 
@@ -308,21 +307,21 @@
     skos:altLabel "Popular entertainment newspapers" ;
     skos:prefLabel """
             Entertainment newspapers
-        """@eng .
+        """@en .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl033> a skos:Concept,
         <http://www.wikidata.org/entity/Q106632462> ;
     rdfs:seeAlso "http://www.wikidata.org/entity/Q107182194" ;
     skos:prefLabel """
             Environmental newspapers
-        """@eng .
+        """@en .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl034> a skos:Concept,
         <http://www.wikidata.org/entity/Q106632462> ;
     rdfs:seeAlso "http://www.wikidata.org/entity/Q106652971" ;
     skos:prefLabel """
             Feminist newspapers
-        """@eng ;
+        """@en ;
     skos:related "https://doi.org/10.6069/uwlib.55.d.5#ngl099" ;
     skos:scopeNote "Use for newspapers advocating social and political rights of women equal to men." .
 
@@ -332,7 +331,7 @@
     skos:broader "https://doi.org/10.6069/uwlib.55.d.5#ngl046" ;
     skos:prefLabel """
             Fisheries newspapers
-        """@eng .
+        """@en .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl036> a skos:Concept,
         <http://www.wikidata.org/entity/Q106632462> ;
@@ -342,7 +341,7 @@
     skos:closeMatch "http://id.loc.gov/authorities/subjects/sh86002473" ;
     skos:prefLabel """
             Free circulation newspapers
-        """@eng .
+        """@en .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl037> a skos:Concept,
         <http://www.wikidata.org/entity/Q106632462> ;
@@ -350,7 +349,7 @@
     skos:altLabel "Fraternal newspapers" ;
     skos:prefLabel """
             Friendly society newspapers
-        """@eng ;
+        """@en ;
     skos:scopeNote "Use for newspapers produced under the aegis of the Masons, Odd Fellows, et al." .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl038> a skos:Concept,
@@ -365,7 +364,7 @@
     skos:closeMatch "http://id.loc.gov/authorities/subjects/sh94008545" ;
     skos:prefLabel """
             Gay newspapers
-        """@eng .
+        """@en .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl039> a skos:Concept,
         <http://www.wikidata.org/entity/Q106632462> ;
@@ -378,7 +377,7 @@
     skos:closeMatch "http://id.loc.gov/authorities/subjects/sh85053597" ;
     skos:prefLabel """
             Gazettes
-        """@eng ;
+        """@en ;
     skos:related "https://doi.org/10.6069/uwlib.55.d.5#ngl041" ;
     skos:scopeNote "Use for newspapers sanctioned by the U.S. or state government as official publishers." .
 
@@ -387,7 +386,7 @@
     rdfs:seeAlso "http://www.wikidata.org/entity/Q107236883" ;
     skos:prefLabel """
             Ghost town newspapers
-        """@eng ;
+        """@en ;
     skos:scopeNote "Use for newspapers published in towns which are now abandoned." .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl041> a skos:Concept,
@@ -395,7 +394,7 @@
     rdfs:seeAlso "http://www.wikidata.org/entity/Q107236916" ;
     skos:prefLabel """
             Government newspapers
-        """@eng ;
+        """@en ;
     skos:related "https://doi.org/10.6069/uwlib.55.d.5#ngl039" ;
     skos:scopeNote "Use for newspapers published by government organizations, but not by official publishers, e.g., Native American newspapers published by the Bureau of Indian Affairs." .
 
@@ -405,7 +404,7 @@
     skos:altLabel "Disabled newspapers" ;
     skos:prefLabel """
             Handicapped persons' newspapers
-        """@eng ;
+        """@en ;
     skos:scopeNote "Use for newspapers published for and about the disabled." .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl043> a skos:Concept,
@@ -416,7 +415,7 @@
     skos:closeMatch "http://id.loc.gov/authorities/subjects/sh85129277" ;
     skos:prefLabel """
             High school student newspapers
-        """@eng .
+        """@en .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl044> a skos:Concept,
         <http://www.wikidata.org/entity/Q106632462> ;
@@ -428,7 +427,7 @@
     skos:narrower "https://doi.org/10.6069/uwlib.55.d.5#ngl060" ;
     skos:prefLabel """
             Hispanic American newspapers
-        """@eng ;
+        """@en ;
     skos:scopeNote "Use for newspapers by, for, and about U.S. citizens of Latin American descent." .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl045> a skos:Concept,
@@ -437,7 +436,7 @@
     skos:broader "https://doi.org/10.6069/uwlib.55.d.5#ngl059" ;
     skos:prefLabel """
             Hospital newspapers
-        """@eng .
+        """@en .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl046> a skos:Concept,
         <http://www.wikidata.org/entity/Q106632462> ;
@@ -448,7 +447,7 @@
         "https://doi.org/10.6069/uwlib.55.d.5#ngl063" ;
     skos:prefLabel """
             Industry newspapers
-        """@eng ;
+        """@en ;
     skos:related "https://doi.org/10.6069/uwlib.55.d.5#ngl018" ;
     skos:scopeNote "Use for newspapers about profit-making enterprises that produce or supply goods, services, or sources of income." .
 
@@ -457,7 +456,7 @@
     rdfs:seeAlso "http://www.wikidata.org/entity/Q107236966" ;
     skos:prefLabel """
             Japanese American evacuation and relocation camp newspapers
-        """@eng .
+        """@en .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl048> a skos:Concept,
         <http://www.wikidata.org/entity/Q106632462> ;
@@ -466,7 +465,7 @@
     skos:closeMatch "http://id.loc.gov/authorities/subjects/sh88004141" ;
     skos:prefLabel """
             Japanese American newspapers
-        """@eng .
+        """@en .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl049> a skos:Concept,
         <http://www.wikidata.org/entity/Q106632462> ;
@@ -475,14 +474,14 @@
     skos:closeMatch "http://id.loc.gov/authorities/subjects/sh85070310" ;
     skos:prefLabel """
             Jewish newspapers
-        """@eng .
+        """@en .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl050> a skos:Concept,
         <http://www.wikidata.org/entity/Q106632462> ;
     rdfs:seeAlso "http://www.wikidata.org/entity/Q107237013" ;
     skos:prefLabel """
             Ku Klux Klan newspapers
-        """@eng .
+        """@en .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl051> a skos:Concept,
         <http://www.wikidata.org/entity/Q106632462> ;
@@ -491,7 +490,7 @@
         "https://doi.org/10.6069/uwlib.55.d.5#ngl094" ;
     skos:prefLabel """
             Labor newspapers
-        """@eng ;
+        """@en ;
     skos:related "https://doi.org/10.6069/uwlib.55.d.5#ngl096" .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl052> a skos:Concept,
@@ -499,7 +498,7 @@
     rdfs:seeAlso "http://www.wikidata.org/entity/Q107181810" ;
     skos:prefLabel """
             Lampoon newspapers
-        """@eng ;
+        """@en ;
     skos:scopeNote "Use for newspapers which satirize current events and people." .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl053> a skos:Concept,
@@ -509,7 +508,7 @@
         "Legal newspapers" ;
     skos:prefLabel """
             Lawyers' newspapers
-        """@eng ;
+        """@en ;
     skos:scopeNote "Use for newspapers produced for and by lawyers." .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl054> a skos:Concept,
@@ -517,7 +516,7 @@
     rdfs:seeAlso "http://www.wikidata.org/entity/Q106668420" ;
     skos:prefLabel """
             Literary newspapers
-        """@eng .
+        """@en .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl055> a skos:Concept,
         <http://www.wikidata.org/entity/Q106632462> ;
@@ -525,14 +524,14 @@
     skos:broader "https://doi.org/10.6069/uwlib.55.d.5#ngl046" ;
     skos:prefLabel """
             Lumbering newspapers
-        """@eng .
+        """@en .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl056> a skos:Concept,
         <http://www.wikidata.org/entity/Q106632462> ;
     rdfs:seeAlso "http://www.wikidata.org/entity/Q107181871" ;
     skos:prefLabel """
             Manuscript newspapers
-        """@eng ;
+        """@en ;
     skos:scopeNote "Use for newspapers produced in long hand script." .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl057> a skos:Concept,
@@ -541,7 +540,7 @@
     skos:broader "https://doi.org/10.6069/uwlib.55.d.5#ngl046" ;
     skos:prefLabel """
             Maritime newspapers
-        """@eng ;
+        """@en ;
     skos:related "https://doi.org/10.6069/uwlib.55.d.5#ngl079" .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl058> a skos:Concept,
@@ -549,7 +548,7 @@
     rdfs:seeAlso "http://www.wikidata.org/entity/Q106668471" ;
     skos:prefLabel """
             Marxist newspapers
-        """@eng ;
+        """@en ;
     skos:related "https://doi.org/10.6069/uwlib.55.d.5#ngl026",
         "https://doi.org/10.6069/uwlib.55.d.5#ngl081" .
 
@@ -559,7 +558,7 @@
     skos:narrower "https://doi.org/10.6069/uwlib.55.d.5#ngl045" ;
     skos:prefLabel """
             Medical newspapers
-        """@eng .
+        """@en .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl060> a skos:Concept,
         <http://www.wikidata.org/entity/Q106632462> ;
@@ -570,14 +569,14 @@
     skos:closeMatch "http://id.loc.gov/authorities/subjects/sh89005391" ;
     skos:prefLabel """
             Mexican American newspapers
-        """@eng .
+        """@en .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl061> a skos:Concept,
         <http://www.wikidata.org/entity/Q106632462> ;
     rdfs:seeAlso "http://www.wikidata.org/entity/Q107181979" ;
     skos:prefLabel """
             Migrant labor camp newspapers
-        """@eng .
+        """@en .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl062> a skos:Concept,
         <http://www.wikidata.org/entity/Q106632462> ;
@@ -586,7 +585,7 @@
     skos:broader "https://doi.org/10.6069/uwlib.55.d.5#ngl108" ;
     skos:prefLabel """
             Military base newspapers
-        """@eng .
+        """@en .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl063> a skos:Concept,
         <http://www.wikidata.org/entity/Q106632462> ;
@@ -594,14 +593,14 @@
     skos:broader "https://doi.org/10.6069/uwlib.55.d.5#ngl046" ;
     skos:prefLabel """
             Mining newspapers
-        """@eng .
+        """@en .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl064> a skos:Concept,
         <http://www.wikidata.org/entity/Q106632462> ;
     rdfs:seeAlso "http://www.wikidata.org/entity/Q106676186" ;
     skos:prefLabel """
             Mission newspapers
-        """@eng ;
+        """@en ;
     skos:scopeNote "Use for newspapers produced for local or national Evangelical or missionary audiences. May be published by a church or non-denominational group." .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl065> a skos:Concept,
@@ -616,14 +615,14 @@
         "Note under Tribal newspapers" ;
     skos:prefLabel """
             Native American newspapers
-        """@eng .
+        """@en .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl066> a skos:Concept,
         <http://www.wikidata.org/entity/Q106632462> ;
     rdfs:seeAlso "http://www.wikidata.org/entity/Q106671524" ;
     skos:prefLabel """
             Non-partisan newspapers
-        """@eng .
+        """@en .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl067> a skos:Concept,
         <http://www.wikidata.org/entity/Q106632462> ;
@@ -631,21 +630,21 @@
     skos:altLabel "Anti-war newspapers" ;
     skos:prefLabel """
             Pacifist newspapers
-        """@eng .
+        """@en .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl068> a skos:Concept,
         <http://www.wikidata.org/entity/Q106632462> ;
     rdfs:seeAlso "http://www.wikidata.org/entity/Q106676147" ;
     skos:prefLabel """
             Prison newspapers
-        """@eng .
+        """@en .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl069> a skos:Concept,
         <http://www.wikidata.org/entity/Q106632462> ;
     rdfs:seeAlso "http://www.wikidata.org/entity/Q106676275" ;
     skos:prefLabel """
             Prohibition newspapers
-        """@eng ;
+        """@en ;
     skos:related "https://doi.org/10.6069/uwlib.55.d.5#ngl012",
         "https://doi.org/10.6069/uwlib.55.d.5#ngl093" ;
     skos:scopeNote "Use for newspapers advocating the legal prevention of the manufacture and sale of alcoholic beverages." .
@@ -655,7 +654,7 @@
     rdfs:seeAlso "http://www.wikidata.org/entity/Q106677807" ;
     skos:prefLabel """
             Propaganda newspapers
-        """@eng ;
+        """@en ;
     skos:scopeNote "Use for newspapers produced by a group or movement organized for spreading a particular doctrine or system of principles." .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl071> a skos:Concept,
@@ -663,7 +662,7 @@
     rdfs:seeAlso "http://www.wikidata.org/entity/Q106677862" ;
     skos:prefLabel """
             Pro-life newspapers
-        """@eng .
+        """@en .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl072> a skos:Concept,
         <http://www.wikidata.org/entity/Q106632462> ;
@@ -672,7 +671,7 @@
     skos:narrower "https://doi.org/10.6069/uwlib.55.d.5#ngl078" ;
     skos:prefLabel """
             Pro-slavery newspapers
-        """@eng ;
+        """@en ;
     skos:related "https://doi.org/10.6069/uwlib.55.d.5#ngl014" .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl073> a skos:Concept,
@@ -681,7 +680,7 @@
     skos:altLabel "Booster newspapers" ;
     skos:prefLabel """
             Real estate development newspapers
-        """@eng ;
+        """@en ;
     skos:scopeNote "Use for newspapers primarily intended to promote local economic activity by touting the assets of the community." .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl074> a skos:Concept,
@@ -689,7 +688,7 @@
     rdfs:seeAlso "http://www.wikidata.org/entity/Q107170485" ;
     skos:prefLabel """
             Referendum newspapers
-        """@eng ;
+        """@en ;
     skos:scopeNote "Use for newspapers of limited duration established and printed in support of local or state political issues." .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl075> a skos:Concept,
@@ -697,7 +696,7 @@
     rdfs:seeAlso "http://www.wikidata.org/entity/Q107170444" ;
     skos:prefLabel """
             Resort newspapers
-        """@eng ;
+        """@en ;
     skos:scopeNote "Use for local newspapers published for seasonal tourist audiences." .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl076> a skos:Concept,
@@ -706,7 +705,7 @@
     skos:altLabel "Retiree newspapers" ;
     skos:prefLabel """
             Retirees' newspapers
-        """@eng .
+        """@en .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl077> a skos:Concept,
         <http://www.wikidata.org/entity/Q106632462> ;
@@ -715,7 +714,7 @@
     skos:closeMatch "http://id.loc.gov/authorities/subjects/sh85129277" ;
     skos:prefLabel """
             School newspapers
-        """@eng ;
+        """@en ;
     skos:related "https://doi.org/10.6069/uwlib.55.d.5#ngl087" ;
     skos:scopeNote "Use for newspapers created by schools, but generally not by the student body, e.g., Indian school newspapers." .
 
@@ -725,7 +724,7 @@
     skos:broader "https://doi.org/10.6069/uwlib.55.d.5#ngl072" ;
     skos:prefLabel """
             Secession newspapers
-        """@eng ;
+        """@en ;
     skos:related "https://doi.org/10.6069/uwlib.55.d.5#ngl084" .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl079> a skos:Concept,
@@ -735,7 +734,7 @@
     skos:closeMatch "http://id.loc.gov/authorities/subjects/sh88000898" ;
     skos:prefLabel """
             Ship newspapers
-        """@eng ;
+        """@en ;
     skos:related "https://doi.org/10.6069/uwlib.55.d.5#ngl057" .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl080> a skos:Concept,
@@ -744,7 +743,7 @@
     skos:altLabel "Shopper's guides" ;
     skos:prefLabel """
             Shopping guides
-        """@eng ;
+        """@en ;
     skos:scopeNote "Use for local newspapers which are primarily advertising media but which include substantive local news items and articles." .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl081> a skos:Concept,
@@ -752,7 +751,7 @@
     rdfs:seeAlso "http://www.wikidata.org/entity/Q106687570" ;
     skos:prefLabel """
             Socialist newspapers
-        """@eng ;
+        """@en ;
     skos:related "https://doi.org/10.6069/uwlib.55.d.5#ngl026",
         "https://doi.org/10.6069/uwlib.55.d.5#ngl058" .
 
@@ -761,14 +760,14 @@
     rdfs:seeAlso "http://www.wikidata.org/entity/Q11313190" ;
     skos:prefLabel """
             Sports newspapers
-        """@eng .
+        """@en .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl083> a skos:Concept,
         <http://www.wikidata.org/entity/Q106632462> ;
     rdfs:seeAlso "http://www.wikidata.org/entity/Q107182208" ;
     skos:prefLabel """
             State fair newspapers
-        """@eng ;
+        """@en ;
     skos:related "https://doi.org/10.6069/uwlib.55.d.5#ngl002",
         "https://doi.org/10.6069/uwlib.55.d.5#ngl031" ;
     skos:scopeNote "Use for newspapers of annual state agricultural exhibitions." .
@@ -778,7 +777,7 @@
     rdfs:seeAlso "http://www.wikidata.org/entity/Q107208916" ;
     skos:prefLabel """
             States' rights newspapers
-        """@eng ;
+        """@en ;
     skos:related "https://doi.org/10.6069/uwlib.55.d.5#ngl078" ;
     skos:scopeNote "Use for newspapers advocating the strict interpretation of the Constitution, by which all rights not specifically delegated to the federal government belong to the states." .
 
@@ -790,14 +789,14 @@
     skos:closeMatch "http://id.loc.gov/authorities/subjects/sh2001000052" ;
     skos:prefLabel """
             Street newspapers
-        """@eng .
+        """@en .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl086> a skos:Concept,
         <http://www.wikidata.org/entity/Q106632462> ;
     rdfs:seeAlso "http://www.wikidata.org/entity/Q107208914" ;
     skos:prefLabel """
             Strike newspapers
-        """@eng ;
+        """@en ;
     skos:related "https://doi.org/10.6069/uwlib.55.d.5#ngl094" ;
     skos:scopeNote "Use for newspapers associated with labor strikes." .
 
@@ -811,7 +810,7 @@
         "https://doi.org/10.6069/uwlib.55.d.5#ngl043" ;
     skos:prefLabel """
             Student newspapers
-        """@eng ;
+        """@en ;
     skos:related "https://doi.org/10.6069/uwlib.55.d.5#ngl077" .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl088> a skos:Concept,
@@ -819,21 +818,21 @@
     rdfs:seeAlso "http://www.wikidata.org/entity/Q106650857" ;
     skos:prefLabel """
             Suffrage newspapers
-        """@eng .
+        """@en .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl089> a skos:Concept,
         <http://www.wikidata.org/entity/Q106632462> ;
     rdfs:seeAlso "http://www.wikidata.org/entity/Q107258494" ;
     skos:prefLabel """
             Summer camp newspapers
-        """@eng .
+        """@en .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl090> a skos:Concept,
         <http://www.wikidata.org/entity/Q106632462> ;
     rdfs:seeAlso "http://www.wikidata.org/entity/Q106650895" ;
     skos:prefLabel """
             Syndicalist newspapers
-        """@eng .
+        """@en .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl091> a skos:Concept,
         <http://www.wikidata.org/entity/Q106632462> ;
@@ -843,7 +842,7 @@
     skos:closeMatch "http://id.loc.gov/authorities/subjects/sh85131819" ;
     skos:prefLabel """
             Tabloid newspapers
-        """@eng ;
+        """@en ;
     skos:scopeNote "Use for newspapers characterized by sensationalism, usually of a small size and presenting news in a concise form." .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl092> a skos:Concept,
@@ -851,7 +850,7 @@
     rdfs:seeAlso "http://www.wikidata.org/entity/Q107258644" ;
     skos:prefLabel """
             Tax reform newspapers
-        """@eng ;
+        """@en ;
     skos:scopeNote "Use for newspapers advocating tax reform." .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl093> a skos:Concept,
@@ -859,7 +858,7 @@
     rdfs:seeAlso "http://www.wikidata.org/entity/Q106687644" ;
     skos:prefLabel """
             Temperance newspapers
-        """@eng ;
+        """@en ;
     skos:related "https://doi.org/10.6069/uwlib.55.d.5#ngl012",
         "https://doi.org/10.6069/uwlib.55.d.5#ngl069" ;
     skos:scopeNote "Use for newspapers advocating abstinence from the use of alcohol or prohibition by law of the sale of or manufacture of alcohol." .
@@ -873,7 +872,7 @@
     skos:broader "https://doi.org/10.6069/uwlib.55.d.5#ngl051" ;
     skos:prefLabel """
             Trade-union newspapers
-        """@eng ;
+        """@en ;
     skos:related "https://doi.org/10.6069/uwlib.55.d.5#ngl086" .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl095> a skos:Concept,
@@ -885,7 +884,7 @@
     skos:closeMatch "http://id.loc.gov/authorities/subjects/sh96010278" ;
     skos:prefLabel """
             Underground newspapers
-        """@eng ;
+        """@en ;
     skos:scopeNote "Use for newspapers published or produced by political or social radicals or nonconformists." .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl096> a skos:Concept,
@@ -893,7 +892,7 @@
     rdfs:seeAlso "http://www.wikidata.org/entity/Q107258714" ;
     skos:prefLabel """
             Unemployment newspapers
-        """@eng ;
+        """@en ;
     skos:related "https://doi.org/10.6069/uwlib.55.d.5#ngl051" .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl097> a skos:Concept,
@@ -901,7 +900,7 @@
     rdfs:seeAlso "http://www.wikidata.org/entity/Q107258724" ;
     skos:prefLabel """
             Utopian newspapers
-        """@eng ;
+        """@en ;
     skos:scopeNote "Use for newspapers associated with he expression of visionary or ideal schemes for the perfection of social or political conditions." .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl098> a skos:Concept,
@@ -910,14 +909,14 @@
     skos:altLabel "War veterans' newspapers" ;
     skos:prefLabel """
             Veterans' newspapers
-        """@eng .
+        """@en .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl099> a skos:Concept,
         <http://www.wikidata.org/entity/Q106632462> ;
     rdfs:seeAlso "http://www.wikidata.org/entity/Q106652977" ;
     skos:prefLabel """
             Women's newspapers
-        """@eng ;
+        """@en ;
     skos:related "https://doi.org/10.6069/uwlib.55.d.5#ngl034" ;
     skos:scopeNote "Use for newspapers whose intended audience is women." .
 
@@ -925,45 +924,45 @@
     skos:note "Use specific two-term descriptors that identify the ethnicity of the readership, e.g., African American newspapers, Japanese American newspapers, Chinese Canadian newspapers, etc. One term applies to the readership of the newspaper who identify with a particular ethnicity  (e.g., a publication produced by a Punjabi community would receive the term \"Punjabi\" rather than \"Pakistani\" or \"East Indian\"). Another term applies to the larger culture in which the group resides (e.g., American, Canadian)." ;
     skos:prefLabel """
             Ethnic newspapers
-        """@eng .
+        """@en .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl101> a skos:Collection ;
     skos:note "other genre and/or subject headings for particular groups if appropriate. Code bibliographic record for language." ;
     skos:prefLabel """
             Foreign language newspapers
-        """@eng .
+        """@en .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl102> a skos:Collection ;
     skos:note "Use specific descriptors, e.g., Jewish newspapers, Gay newspapers, etc." ;
     skos:prefLabel """
             Minority newspapers
-        """@eng .
+        """@en .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl103> a skos:Collection ;
     rdfs:seeAlso "http://www.wikidata.org/entity/Q442927" ;
     skos:note "Use specific party descriptors, e.g., Democratic Party newspapers, Republican Party newspapers, Whig Party newspapers, etc." ;
     skos:prefLabel """
             Political party newspapers
-        """@eng .
+        """@en .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl104> a skos:Collection ;
     skos:note "Use specific descriptors, e.g., Baptist newspapers, Catholic newspapers, Non-denominational newspapers" ;
     skos:prefLabel """
             Religious denomination newspapers
-        """@eng .
+        """@en .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl105> a skos:Collection ;
     skos:note "descriptors that identify tribal community or communities for whom the newspaper is published, e.g., Cheyenne newspapers, Lummi newspapers. Assign also the descriptor Native American newspapers." ;
     skos:prefLabel """
             Tribal newspapers
-        """@eng .
+        """@en .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl106> a skos:Concept,
         <http://www.wikidata.org/entity/Q106632462> ;
     rdfs:seeAlso "http://www.wikidata.org/entity/Q107182188" ;
     skos:prefLabel """
             Multicultural newspapers
-        """@eng ;
+        """@en ;
     skos:scopeNote "Use for newspapers about multicultural issues, racial equality, or diversity. Also use for newspapers covering issues of more than one ethnic group." .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl107> a skos:Concept,
@@ -971,7 +970,7 @@
     rdfs:seeAlso "http://www.wikidata.org/entity/Q107183151" ;
     skos:prefLabel """
             Conservative newspapers
-        """@eng .
+        """@en .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl108> a skos:Concept,
         <http://www.wikidata.org/entity/Q106632462> ;
@@ -979,49 +978,49 @@
     skos:narrower "https://doi.org/10.6069/uwlib.55.d.5#ngl062" ;
     skos:prefLabel """
             Military newspapers
-        """@eng .
+        """@en .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl110> a skos:Concept,
         <http://www.wikidata.org/entity/Q106632462> ;
     rdfs:seeAlso "http://www.wikidata.org/entity/Q107236680" ;
     skos:prefLabel """
             Democratic Party newspapers
-        """@eng .
+        """@en .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl111> a skos:Concept,
         <http://www.wikidata.org/entity/Q106632462> ;
     rdfs:seeAlso "http://www.wikidata.org/entity/Q107259292" ;
     skos:prefLabel """
             Republican Party newspapers
-        """@eng .
+        """@en .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl112> a skos:Concept,
         <http://www.wikidata.org/entity/Q106632462> ;
     rdfs:seeAlso "http://www.wikidata.org/entity/Q106671613" ;
     skos:prefLabel """
             Whig Party newspapers
-        """@eng .
+        """@en .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl113> a skos:Concept,
         <http://www.wikidata.org/entity/Q106632462> ;
     rdfs:seeAlso "http://www.wikidata.org/entity/Q106678195" ;
     skos:prefLabel """
             Baptist newspapers
-        """@eng .
+        """@en .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl114> a skos:Concept,
         <http://www.wikidata.org/entity/Q106632462> ;
     rdfs:seeAlso "http://www.wikidata.org/entity/Q106678098" ;
     skos:prefLabel """
             Catholic newspapers
-        """@eng .
+        """@en .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl115> a skos:Concept,
         <http://www.wikidata.org/entity/Q106632462> ;
     rdfs:seeAlso "http://www.wikidata.org/entity/Q107259317" ;
     skos:prefLabel """
             Non-denominational newspapers
-        """@eng .
+        """@en .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl116> a skos:Concept,
         <http://www.wikidata.org/entity/Q106632462> ;
@@ -1029,7 +1028,7 @@
     skos:broader "https://doi.org/10.6069/uwlib.55.d.5#ngl065" ;
     skos:prefLabel """
             Cheyenne newspapers
-        """@eng .
+        """@en .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl117> a skos:Concept,
         <http://www.wikidata.org/entity/Q106632462> ;
@@ -1037,7 +1036,7 @@
     skos:broader "https://doi.org/10.6069/uwlib.55.d.5#ngl065" ;
     skos:prefLabel """
             Lummi newspapers
-        """@eng .
+        """@en .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl118> a skos:Concept,
         <http://www.wikidata.org/entity/Q106632462> ;
@@ -1045,7 +1044,7 @@
     skos:broader "https://doi.org/10.6069/uwlib.55.d.5#ngl065" ;
     skos:prefLabel """
             Blackfoot newspapers
-        """@eng .
+        """@en .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl119> a skos:Concept,
         <http://www.wikidata.org/entity/Q106632462> ;
@@ -1053,12 +1052,12 @@
     skos:broader "https://doi.org/10.6069/uwlib.55.d.5#ngl065" ;
     skos:prefLabel """
             Yakama newspapers
-        """@eng .
+        """@en .
 
 <https://doi.org/10.6069/uwlib.55.d.5#ngl120> a skos:Concept,
         <http://www.wikidata.org/entity/Q106632462> ;
     rdfs:seeAlso "http://www.wikidata.org/entity/Q107183122" ;
     skos:prefLabel """
             Chinese Canadian newspapers
-        """@eng .
+        """@en .
 
